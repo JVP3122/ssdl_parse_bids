@@ -38,16 +38,39 @@ def generate_all_bids_file(file_name, df, width=2, precision=4):
             f.write('\n')
 
 
-def generate_total_bids_json(file_name, df):
-    winning_bids = {}
+def generate_total_bids_json(df):
+    bids = {}
     for player in df.Player.unique():
-        winning_df = df.loc[df['Player'] == player].drop(['Player', 'Order'], axis=1)
-        winning_df.set_index('Team', inplace=True)
-        winning_bids[player] = winning_df.transpose().to_json()
+        player_df = df.loc[df['Player'] == player].drop(['Player', 'Order'], axis=1)
+        player_df.set_index('Team', inplace=True)
+        bids[player] = player_df.transpose().to_json()
 
+    return bids
+
+
+def generate_winning_bids_json(df):
+    bids = {}
+    for team in df.Team.unique():
+        team_df = df.loc[df['Team'] == team].drop(['Team', 'Order'], axis=1)
+        team_df.set_index('Player', inplace=True)
+        bids[team] = team_df.transpose().to_json()
+
+    return bids
+
+
+def generate_player_bids_json(df):
+    bids = {}
+    for player in df.Player.unique():
+        player_df = df.loc[df['Player'] == player].sort_values(by=['AAV', 'Years', 'Y1', 'Order'], ascending=[False, False, False, True]).drop(['Player', 'Order'], axis=1)
+        player_df.set_index('Team', inplace=True)
+        bids[player] = player_df.transpose().to_json()
+
+    return bids
+
+
+def write_json_file(file_name, val):
     with open(file_name, 'w') as fp:
-        json.dump(winning_bids, fp)
-
+        json.dump(val, fp)
 
 df = pd.read_csv('bids.csv')
 
@@ -66,13 +89,17 @@ df['MinValid'] = df['AAV'] * 0.8 < df['Min']
 df['BaseValid'] = df['AAV'] > 0.4
 df['Valid'] = df['MaxValid'] & df['MinValid'] & df['BaseValid']
 
-generate_all_bids_file('player_bids.txt', df)
-generate_total_bids_json('all_bids.json', df)
+generate_all_bids_file('all_players.txt', df)
+all_bids = generate_total_bids_json(df)
+all_players = generate_player_bids_json(df)
 
 df = max_by_column(df, 'Player', 'AAV')
 df = max_by_column(df, 'Player', 'Years')
 df = max_by_column(df, 'Player', 'Y1')
 df = min_by_column(df, 'Player', 'Order')
 df.drop(['Y1', 'Y2', 'Y3', 'Y4', 'Y5', 'Max', 'Min'], axis=1, inplace=True)
-
+winning_bids = generate_winning_bids_json(df)
+write_json_file('all_bids.json', all_bids)
+write_json_file('all_players.json', all_players)
+write_json_file('winning_bids.json', winning_bids)
 generate_winning_bids_file('winning_bids.txt', df)
