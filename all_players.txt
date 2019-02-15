@@ -1,0 +1,187 @@
+[b][u]Trevor Bauer, SP CLE (NYM, 1)[/u][/b]
+SD: 5 years at 12.77/year
+PIT: 3 years at 11.76/year (14.11,11.76,9.41)
+OAK: 4 years at 9.0/year
+BOS: 3 years at 7.87/year
+CLE: 3 years at 7.8/year
+BAL: 5 years at 6.0/year
+ARZ: 3 years at 6.0/year
+LAD: 5 years at 4.0/year
+
+[b][u]Xander Bogaerts, SS BOS (LAD, 1)[/u][/b]
+ATL: 5 years at 10.0/year
+SD: 4 years at 8.77/year
+OAK: 5 years at 8.75/year
+CHC: 3 years at 8.0/year
+TOR: 5 years at 7.9/year
+BOS: 3 years at 7.57/year
+CLE: 3 years at 4.8/year
+ARZ: 5 years at 4.0/year
+
+[b][u]Jacob DeGrom, SP NYM (BAL, 1)[/u][/b]
+NYY: 3 years at 17.0/year
+CLE: 3 years at 12.2/year
+OAK: 4 years at 12.0/year
+SD: 4 years at 11.77/year
+NYM: 3 years at 11.0/year
+BOS: 3 years at 10.27/year
+ATL: 5 years at 10.0/year
+ARZ: 3 years at 7.0/year
+CHC: 3 years at 6.3/year
+LAD: 5 years at 6.1/year
+
+[b][u]Christian Yelich, OF Mil (LAD, 1)[/u][/b]
+CHC: 3 years at 18.99/year
+PIT: 3 years at 13.76/year (16.51,13.76,11.01)
+OAK: 5 years at 13.0/year
+NYM: 3 years at 12.5/year (13,12.5,12)
+SD: 3 years at 11.77/year
+TOR: 5 years at 11.3/year
+ARZ: 5 years at 11.0/year
+CLE: 3 years at 10.2/year
+ATL: 5 years at 10.0/year
+BOS: 3 years at 9.27/year
+KC: 4 years at 7.05/year
+
+[b][u]Travis Shaw, 3B MIL (KC, 2)[/u][/b]
+BOS: 3 years at 6.47/year
+OAK: 3 years at 6.0/year
+ARZ: 3 years at 6.0/year
+CHC: 3 years at 5.3/year
+SD: 3 years at 4.77/year
+PIT: 3 years at 4.76/year
+BAL: 4 years at 4.0/year
+ATL: 3 years at 4.0/year
+CLE: 3 years at 3.6/year
+LAD: 5 years at 0.7/year
+
+[b][u]Rougned Odor, 2B TEX (OAK, 2)[/u][/b]
+SD: 5 years at 7.77/year
+NYY: 3 years at 6.0/year
+TOR: 5 years at 5.8/year
+BOS: 3 years at 5.67/year
+PIT: 4 years at 4.76/year (5.74,4.76,4.76,3.81)
+ARZ: 3 years at 4.0/year
+CLE: 3 years at 3.4/year
+LAD: 5 years at 0.5/year
+
+[b][u]Yasmani Grandal, C LAD (PHI, 3)[/u][/b]
+SD: 3 years at 4.77/year
+BOS: 3 years at 4.47/year
+CHC: 3 years at 4.3/year
+OAK: 3 years at 3.5/year
+ARZ: 3 years at 3.0/year
+CLE: 3 years at 2.7/year
+
+[b][u]Kevin Gausman, SP ATL (OAK, 3)[/u][/b]
+BOS: 3 years at 4.77/year
+ATL: 5 years at 4.0/year
+ARZ: 3 years at 4.0/year
+SD: 3 years at 3.77/year
+WAS: 3 years at 3.333/year
+NYY: 3 years at 3.0/year
+KC: 3 years at 2.55/year
+PIT: 3 years at 2.26/year (2.71,2.26,1.81)
+LAD: 5 years at 0.6/year
+
+[b][u]Tyler Skaggs, SP LAA (OAK, 4)[/u][/b]
+BOS: 3 years at 5.79/year
+PHI: 3 years at 4.5/year
+ARZ: 3 years at 4.2/year
+TOR: 5 years at 3.8/year
+CLE: 3 years at 3.5/year
+NYM: 3 years at 3.5/year
+SD: 3 years at 2.77/year
+KC: 3 years at 2.55/year
+PIT: 4 years at 2.26/year (2.71,2.26,2.26,1.81)
+LAD: 5 years at 1.1/year
+
+[b][u]Steven Matz, SP NYM (ARZ, 4)[/u][/b]
+BOS: 3 years at 5.79/year
+SD: 3 years at 3.77/year
+BAL: 4 years at 3.0/year
+OAK: 3 years at 3.0/year
+CLE: 3 years at 2.4/year
+LAD: 5 years at 2.1/year
+
+[b][u]Garrett Richards, SP SD (WAS, 4)[/u][/b]
+BOS: 5 years at 3.29/year
+OAK: 3 years at 2.0/year
+LAD: 5 years at 1.1/year
+ARZ: 3 years at 1.0/year
+
+[b][u]Jorge Soler, OF KC (WAS, 4)[/u][/b]
+BOS: 3 years at 3.29/year
+SD: 3 years at 2.77/year
+OAK: 3 years at 1.75/year
+CHC: 3 years at 1.2/year
+LAD: 5 years at 1.1/year
+ATL: 3 years at 0.5/year
+
+[b][u]Aaron Sanchez, SP TOR (WAS, 5)[/u][/b]
+BOS: 3 years at 2.19/year
+SD: 3 years at 1.97/year
+OAK: 3 years at 1.5/year
+ARZ: 3 years at 1.0/year
+ATL: 5 years at 0.7/year
+
+[b][u]Nick Castellanos, 3B DET (PIT, 1)[/u][/b]
+SD: 5 years at 7.77/year
+OAK: 3 years at 6.0/year
+CHC: 3 years at 5.3/year
+LAD: 5 years at 3.1/year
+ARZ: 5 years at 3.0/year
+CLE: 3 years at 2.7/year
+
+[b][u]Vince Velasquez, SP PHI (ARZ, 4)[/u][/b]
+LAD: 5 years at 4.0/year
+SD: 4 years at 3.77/year
+NYY: 3 years at 3.0/year
+TOR: 5 years at 2.8/year
+PHI: 2 years at 2.5/year
+OAK: 3 years at 2.0/year
+CLE: 3 years at 0.8/year
+ATL: 3 years at 0.5/year
+
+[b][u]Jimmy Nelson, SP Mil (CHC, 5)[/u][/b]
+PHI: 3 years at 3.5/year
+NYM: 3 years at 3.0/year
+ARZ: 3 years at 3.0/year
+KC: 3 years at 2.55/year
+LAD: 5 years at 1.1/year
+OAK: 4 years at 1.0/year
+CLE: 3 years at 0.6/year
+
+[b][u]Kevin Pillar, OF TOR (PHI, 2)[/u][/b]
+ATL: 3 years at 4.5/year
+
+[b][u]Gregory Polanco, OF PIT (OAK, 2)[/u][/b]
+CHC: 3 years at 5.3/year
+SD: 3 years at 3.77/year
+WAS: 3 years at 3.333/year
+LAD: 5 years at 3.1/year
+ATL: 3 years at 3.0/year
+PIT: 3 years at 2.26/year
+
+[b][u]Carlos Rodon, SP CWS (OAK, 4)[/u][/b]
+TOR: 5 years at 4.2/year
+PHI: 3 years at 3.5/year
+NYY: 3 years at 3.0/year
+SD: 3 years at 2.77/year
+ARZ: 3 years at 1.5/year
+CLE: 3 years at 0.6/year
+ATL: 3 years at 0.5/year
+LAD: 5 years at 0.4/year
+
+[b][u]Joe Panik, 2B SF (NYY, 4)[/u][/b]
+SD: 3 years at 1.5/year
+LAD: 5 years at 1.1/year
+DET: 3 years at 0.75/year
+
+[b][u]Addison Russell, SS CHC (PIT, 4)[/u][/b]
+LAD: 5 years at 3.1/year
+CHC: 3 years at 0.4/year
+
+[b][u]Devon Travis, 2B TOR (BAL, 4)[/u][/b]
+LAD: 5 years at 0.5/year
+

@@ -1,16 +1,38 @@
-[b][u]ARZ[/u][/b]
-Matt Belisle, 2 years at 1.0/year
-Miguel Cabrera, 4 years at 2.0/year
-Miguel Gonzalez, 2 years at 0.5/year
-Mike Fiers, 1 year at 0.4/year
+[b][u]BOS[/u][/b]
+Travis Shaw, 3B MIL (KC, 2), 3 years at 6.47/year
+Kevin Gausman, SP ATL (OAK, 3), 3 years at 4.77/year
+Tyler Skaggs, SP LAA (OAK, 4), 3 years at 5.79/year
+Steven Matz, SP NYM (ARZ, 4), 3 years at 5.79/year
+Garrett Richards, SP SD (WAS, 4), 5 years at 3.29/year
+Jorge Soler, OF KC (WAS, 4), 3 years at 3.29/year
+Aaron Sanchez, SP TOR (WAS, 5), 3 years at 2.19/year
+
+[b][u]ATL[/u][/b]
+Xander Bogaerts, SS BOS (LAD, 1), 5 years at 10.0/year
+Kevin Pillar, OF TOR (PHI, 2), 3 years at 4.5/year
+
+[b][u]PHI[/u][/b]
+Jimmy Nelson, SP Mil (CHC, 5), 3 years at 3.5/year
 
 [b][u]LAD[/u][/b]
-Melky Cabrera, 3 years at 13.33/year
-Michael Pineda, 4 years at 1.5/year
+Addison Russell, SS CHC (PIT, 4), 5 years at 3.1/year
+Vince Velasquez, SP PHI (ARZ, 4), 5 years at 4.0/year
+Devon Travis, 2B TOR (BAL, 4), 5 years at 0.5/year
 
-[b][u]BOS[/u][/b]
-Kyle Gibson, 3 years at 1.5/year
+[b][u]CHC[/u][/b]
+Christian Yelich, OF Mil (LAD, 1), 3 years at 18.99/year
+Gregory Polanco, OF PIT (OAK, 2), 3 years at 5.3/year
 
-[b][u]KC[/u][/b]
-Luis Avilan, 2 years at 2.0/year
+[b][u]SD[/u][/b]
+Nick Castellanos, 3B DET (PIT, 1), 5 years at 7.77/year
+Trevor Bauer, SP CLE (NYM, 1), 5 years at 12.77/year
+Rougned Odor, 2B TEX (OAK, 2), 5 years at 7.77/year
+Yasmani Grandal, C LAD (PHI, 3), 3 years at 4.77/year
+Joe Panik, 2B SF (NYY, 4), 3 years at 1.5/year
+
+[b][u]TOR[/u][/b]
+Carlos Rodon, SP CWS (OAK, 4), 5 years at 4.2/year
+
+[b][u]NYY[/u][/b]
+Jacob DeGrom, SP NYM (BAL, 1), 3 years at 17.0/year
 
