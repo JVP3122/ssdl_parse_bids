@@ -22,7 +22,8 @@ def generate_winning_bids_file(file_name, df, width=2, precision=4):
             winning_df = df.loc[df['Team'] == team]
             for idx, row in winning_df.iterrows():
                 year_string = 'year' if row.Years == 1 else 'years'
-                f.write(f'{row.Player}, {row.Years} {year_string} at {row.AAV:{width}.{precision}}/year\n')
+                breakdown_string = f' ({row.Breakdown})' if isinstance(row.Breakdown, str) else ''
+                f.write(f'{row.Player}, {row.Years} {year_string} at {row.AAV:{width}.{precision}}/year{breakdown_string}\n')
             f.write('\n')
 
 

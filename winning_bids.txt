@@ -1,38 +1,78 @@
 [b][u]BOS[/u][/b]
-Travis Shaw, 3B MIL (KC, 2), 3 years at 6.47/year
-Kevin Gausman, SP ATL (OAK, 3), 3 years at 4.77/year
-Tyler Skaggs, SP LAA (OAK, 4), 3 years at 5.79/year
-Steven Matz, SP NYM (ARZ, 4), 3 years at 5.79/year
-Garrett Richards, SP SD (WAS, 4), 5 years at 3.29/year
-Jorge Soler, OF KC (WAS, 4), 3 years at 3.29/year
-Aaron Sanchez, SP TOR (WAS, 5), 3 years at 2.19/year
+Dee Gordon, 2B SEA, 2 years at 6.37/year (7,5.74)
+Drew Smyly, SP SEA, 3 years at 1.19/year
+Isiah Kiner-Falefa, 3B TEX, 3 years at 0.57/year
+Joakim Soria, RP OAK, 2 years at 0.67/year
+Mike Fiers, SP OAK, 1 year at 3.28/year
+Albert Pujols, 1B LAA, 1 year at 1.69/year
 
-[b][u]ATL[/u][/b]
-Xander Bogaerts, SS BOS (LAD, 1), 5 years at 10.0/year
-Kevin Pillar, OF TOR (PHI, 2), 3 years at 4.5/year
+[b][u]PIT[/u][/b]
+Frankie Montas, SP OAK, 5 years at 2.26/year (2.71,2.71,2.26,1.81,1.81)
+Nick Tropeano, SP LAA, 3 years at 1.26/year
+Wade LeBlanc, SP SEA, 1 year at 3.26/year
+Yusei Kikuchi, SP SEA, 3 years at 7.26/year
 
-[b][u]PHI[/u][/b]
-Jimmy Nelson, SP Mil (CHC, 5), 3 years at 3.5/year
-
-[b][u]LAD[/u][/b]
-Addison Russell, SS CHC (PIT, 4), 5 years at 3.1/year
-Vince Velasquez, SP PHI (ARZ, 4), 5 years at 4.0/year
-Devon Travis, 2B TOR (BAL, 4), 5 years at 0.5/year
-
-[b][u]CHC[/u][/b]
-Christian Yelich, OF Mil (LAD, 1), 3 years at 18.99/year
-Gregory Polanco, OF PIT (OAK, 2), 3 years at 5.3/year
-
-[b][u]SD[/u][/b]
-Nick Castellanos, 3B DET (PIT, 1), 5 years at 7.77/year
-Trevor Bauer, SP CLE (NYM, 1), 5 years at 12.77/year
-Rougned Odor, 2B TEX (OAK, 2), 5 years at 7.77/year
-Yasmani Grandal, C LAD (PHI, 3), 3 years at 4.77/year
-Joe Panik, 2B SF (NYY, 4), 3 years at 1.5/year
+[b][u]ARZ[/u][/b]
+Fernando Rodney, RP OAK, 1 year at 1.25/year
+Hector Rondon, RP HOU, 3 years at 0.8/year
+Will Harris, RP HOU, 1 year at 0.65/year
 
 [b][u]TOR[/u][/b]
-Carlos Rodon, SP CWS (OAK, 4), 5 years at 4.2/year
+Josh Reddick, OF HOU, 1 year at 3.4/year
+Ryan Pressly, RP HOU, 3 years at 3.3/year
+Wade Miley, SP HOU, 2 years at 3.2/year
 
-[b][u]NYY[/u][/b]
-Jacob DeGrom, SP NYM (BAL, 1), 3 years at 17.0/year
+[b][u]ATL[/u][/b]
+Edinson Volquez, SP TEX, 1 year at 0.8/year
+Elvis Andrus, SS TEX, 1 year at 4.25/year
+
+[b][u]WAS[/u][/b]
+Omar Narvaez, C SEA, 1 year at 2.0/year
+
+[b][u]CHC[/u][/b]
+Anthony Swarzak, RP SEA, 1 year at 1.5/year
+Blake Treinen, RP OAK, 1 year at 10.99/year
+Cole Kalhoun, OF LAA, 2 years at 0.44/year
+Jose Leclerc, RP TEX, 2 years at 7.9/year
+Mark Canha, OF OAK, 1 year at 0.41/year
+Ryan Buchter, RP OAK, 1 year at 0.41/year
+Shawn Armstrong, RP SEA, 2 years at 0.9/year
+Shin Soo Choo, OF TEX, 1 year at 2.8/year
+
+[b][u]DET[/u][/b]
+Jesse Chavez, RP TEX, 2 years at 1.55/year
+
+[b][u]NYM[/u][/b]
+Justin Verlander, SP HOU, 1 year at 18.5/year
+Trevor Cahill, SP LAA, 1 year at 2.5/year
+
+[b][u]KC[/u][/b]
+Edwin Encarnacion, 1B SEA, 1 year at 8.55/year
+Jay Bruce, OF SEA, 1 year at 2.05/year
+Khris Davis, DH OAK, 1 year at 16.55/year
+
+[b][u]LAD[/u][/b]
+Dan Altavilla, RP SEA, 5 years at 0.4/year
+Marwin Gonzalez, OF HOU, 3 years at 0.4333/year
+
+[b][u]SD[/u][/b]
+isiah Kiner Falefa, 3B TEX, 3 years at 0.77/year
+Yuli Gurriel, 1B HOU, 1 year at 4.77/year
+Asdrubal Cabrera, 2B TEX, 2 years at 4.77/year
+Zack Cozart, 3B LAA, 1 year at 2.77/year
+Patrick Wisdom, 3B TEX, 2 years at 0.57/year
+Andrelton Simmons, SS LAA, 2 years at 4.77/year
+Marcus Semien, SS OAK, 3 years at 4.77/year
+Justin Upton, OF LAA, 2 years at 8.77/year
+Domingo Santana, OF SEA, 3 years at 4.77/year
+Cody Allen, RP LAA, 2 years at 7.77/year
+Matt Harvey, SP LAA, 2 years at 3.77/year
+Mike Leake, SP SEA, 2 years at 3.77/year
+Hunter Strickland, RP SEA, 2 years at 5.77/year
+Hansel Robles, RP LAA, 3 years at 1.77/year
+Lou Trivino, RP OAK, 2 years at 1.77/year
+Chris Devenski, RP HOU, 2 years at 1.77/year
+Luis Garcia, RP LAA, 2 years at 0.77/year
+Brad Peacock, RP HOU, 2 years at 1.77/year
+Cory Gearrin, RP SEA, 2 years at 0.77/year
 

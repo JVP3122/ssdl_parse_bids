@@ -1,144 +1,272 @@
 Player,Years,Total,Team,Breakdown,Order
-"Trevor Bauer, SP CLE (NYM, 1)",3,23.61,BOS,,3
-"Xander Bogaerts, SS BOS (LAD, 1)",3,22.71,BOS,,3
-"Jacob DeGrom, SP NYM (BAL, 1)",3,30.81,BOS,,3
-"Christian Yelich, OF Mil (LAD, 1)",3,27.81,BOS,,3
-"Travis Shaw, 3B MIL (KC, 2)",3,19.41,BOS,,3
-"Rougned Odor, 2B TEX (OAK, 2)",3,17.01,BOS,,3
-"Yasmani Grandal, C LAD (PHI, 3)",3,13.41,BOS,,3
-"Kevin Gausman, SP ATL (OAK, 3)",3,14.31,BOS,,3
-"Tyler Skaggs, SP LAA (OAK, 4)",3,17.37,BOS,,3
-"Steven Matz, SP NYM (ARZ, 4)",3,17.37,BOS,,3
-"Garrett Richards, SP SD (WAS, 4)",5,16.45,BOS,,3
-"Jorge Soler, OF KC (WAS, 4)",3,9.87,BOS,,3
-"Aaron Sanchez, SP TOR (WAS, 5)",3,6.57,BOS,,3
-"Travis Shaw, 3B MIL (KC, 2)",3,18,OAK,,1
-"Nick Castellanos, 3B DET (PIT, 1)",3,18,OAK,,1
-"Yasmani Grandal, C LAD (PHI, 3)",3,10.5,OAK,,1
-"Xander Bogaerts, SS BOS (LAD, 1)",5,43.75,OAK,,1
-"Trevor Bauer, SP CLE (NYM, 1)",4,36,OAK,,1
-"Christian Yelich, OF Mil (LAD, 1)",5,65,OAK,,1
-"Jacob DeGrom, SP NYM (BAL, 1)",4,48,OAK,,1
-"Vince Velasquez, SP PHI (ARZ, 4)",3,6,OAK,,1
-"Steven Matz, SP NYM (ARZ, 4)",3,9,OAK,,1
-"Jimmy Nelson, SP Mil (CHC, 5)",4,4,OAK,,1
-"Garrett Richards, SP SD (WAS, 4)",3,6,OAK,,1
-"Aaron Sanchez, SP TOR (WAS, 5)",3,4.5,OAK,,1
-"Jorge Soler, OF KC (WAS, 4)",3,5.25,OAK,,1
-"Xander Bogaerts, SS BOS (LAD, 1)",5,50,ATL,,2
-"Christian Yelich, OF Mil (LAD, 1)",5,50,ATL,,2
-"Jacob DeGrom, SP NYM (BAL, 1)",5,50,ATL,,2
-"Travis Shaw, 3B MIL (KC, 2)",3,12,ATL,,2
-"Kevin Pillar, OF TOR (PHI, 2)",3,13.5,ATL,,2
-"Gregory Polanco, OF PIT (OAK, 2)",3,9,ATL,,2
-"Kevin Gausman, SP ATL (OAK, 3)",5,20,ATL,,2
-"Carlos Rodon, SP CWS (OAK, 4)",3,1.5,ATL,,2
-"Vince Velasquez, SP PHI (ARZ, 4)",3,1.5,ATL,,2
-"Jorge Soler, OF KC (WAS, 4)",3,1.5,ATL,,2
-"Aaron Sanchez, SP TOR (WAS, 5)",5,3.5,ATL,,2
-"Jimmy Nelson, SP Mil (CHC, 5)",3,10.5,PHI,,4
-"Tyler Skaggs, SP LAA (OAK, 4)",3,13.5,PHI,,4
-"Vince Velasquez, SP PHI (ARZ, 4)",2,5,PHI,,4
-"Carlos Rodon, SP CWS (OAK, 4)",3,10.5,PHI,,4
-"Tyler Skaggs, SP LAA (OAK, 4)",3,10.5,CLE,,5
-"Carlos Rodon, SP CWS (OAK, 4)",3,1.8,CLE,,5
-"Steven Matz, SP NYM (ARZ, 4)",3,7.2,CLE,,5
-"Vince Velasquez, SP PHI (ARZ, 4)",3,2.4,CLE,,5
-"Trevor Bauer, SP CLE (NYM, 1)",3,23.4,CLE,,5
-"Jimmy Nelson, SP Mil (CHC, 5)",3,1.8,CLE,,5
-"Jacob DeGrom, SP NYM (BAL, 1)",3,36.6,CLE,,5
-"Travis Shaw, 3B MIL (KC, 2)",3,10.8,CLE,,5
-"Nick Castellanos, 3B DET (PIT, 1)",3,8.1,CLE,,5
-"Rougned Odor, 2B TEX (OAK, 2)",3,10.2,CLE,,5
-"Yasmani Grandal, C LAD (PHI, 3)",3,8.1,CLE,,5
-"Xander Bogaerts, SS BOS (LAD, 1)",3,14.4,CLE,,5
-"Christian Yelich, OF Mil (LAD, 1)",3,30.6,CLE,,5
-"Joe Panik, 2B SF (NYY, 4)",3,2.25,DET,,6
-"Jimmy Nelson, SP Mil (CHC, 5)",3,9,NYM,,7
-"Tyler Skaggs, SP LAA (OAK, 4)",3,10.5,NYM,,7
-"Jacob DeGrom, SP NYM (BAL, 1)",3,33,NYM,,7
-"Christian Yelich, OF Mil (LAD, 1)",3,37.5,NYM,"13,12.5,12",7
-"Tyler Skaggs, SP LAA (OAK, 4)",3,12.6,ARZ,,9
-"Kevin Gausman, SP ATL (OAK, 3)",3,12,ARZ,,9
-"Carlos Rodon, SP CWS (OAK, 4)",3,4.5,ARZ,,9
-"Travis Shaw, 3B MIL (KC, 2)",3,18,ARZ,,9
-"Nick Castellanos, 3B DET (PIT, 1)",5,15,ARZ,,9
-"Rougned Odor, 2B TEX (OAK, 2)",3,12,ARZ,,9
-"Xander Bogaerts, SS BOS (LAD, 1)",5,20,ARZ,,9
-"Trevor Bauer, SP CLE (NYM, 1)",3,18,ARZ,,9
-"Jimmy Nelson, SP Mil (CHC, 5)",3,9,ARZ,,9
-"Christian Yelich, OF Mil (LAD, 1)",5,55,ARZ,,9
-"Jacob DeGrom, SP NYM (BAL, 1)",3,21,ARZ,,9
-"Garrett Richards, SP SD (WAS, 4)",3,3,ARZ,,9
-"Aaron Sanchez, SP TOR (WAS, 5)",3,3,ARZ,,9
-"Yasmani Grandal, C LAD (PHI, 3)",3,9,ARZ,,9
-"Tyler Skaggs, SP LAA (OAK, 4)",5,5.5,LAD,,10
-"Kevin Gausman, SP ATL (OAK, 3)",5,3,LAD,,10
-"Carlos Rodon, SP CWS (OAK, 4)",5,2,LAD,,10
-"Addison Russell, SS CHC (PIT, 4)",5,15.5,LAD,,10
-"Travis Shaw, 3B MIL (KC, 2)",5,3.5,LAD,,10
-"Nick Castellanos, 3B DET (PIT, 1)",5,15.5,LAD,,10
-"Gregory Polanco, OF PIT (OAK, 2)",5,15.5,LAD,,10
-"Rougned Odor, 2B TEX (OAK, 2)",5,2.5,LAD,,10
-"Steven Matz, SP NYM (ARZ, 4)",5,10.5,LAD,,10
-"Vince Velasquez, SP PHI (ARZ, 4)",5,20,LAD,,10
-"Trevor Bauer, SP CLE (NYM, 1)",5,20,LAD,,10
-"Joe Panik, 2B SF (NYY, 4)",5,5.5,LAD,,10
-"Jimmy Nelson, SP Mil (CHC, 5)",5,5.5,LAD,,10
-"Jacob DeGrom, SP NYM (BAL, 1)",5,30.5,LAD,,10
-"Devon Travis, 2B TOR (BAL, 4)",5,2.5,LAD,,10
-"Garrett Richards, SP SD (WAS, 4)",5,5.5,LAD,,10
-"Jorge Soler, OF KC (WAS, 4)",5,5.5,LAD,,10
-"Trevor Bauer, SP CLE (NYM, 1)",3,35.28,PIT,"14.11,11.76,9.41",11
-"Christian Yelich, OF Mil (LAD, 1)",3,41.28,PIT,"16.51,13.76,11.01",11
-"Gregory Polanco, OF PIT (OAK, 2)",3,6.78,PIT,,11
-"Rougned Odor, 2B TEX (OAK, 2)",4,19.04,PIT,"5.74,4.76,4.76,3.81",11
-"Travis Shaw, 3B MIL (KC, 2)",3,14.28,PIT,,11
-"Kevin Gausman, SP ATL (OAK, 3)",3,6.78,PIT,"2.71,2.26,1.81",11
-"Tyler Skaggs, SP LAA (OAK, 4)",4,9.04,PIT,"2.71,2.26,2.26,1.81",11
-"Christian Yelich, OF Mil (LAD, 1)",3,56.97,CHC,,12
-"Xander Bogaerts, SS BOS (LAD, 1)",3,24,CHC,,12
-"Jorge Soler, OF KC (WAS, 4)",3,3.6,CHC,,12
-"Jacob DeGrom, SP NYM (BAL, 1)",3,18.9,CHC,,12
-"Yasmani Grandal, C LAD (PHI, 3)",3,12.9,CHC,,12
-"Nick Castellanos, 3B DET (PIT, 1)",3,15.9,CHC,,12
-"Addison Russell, SS CHC (PIT, 4)",3,1.2,CHC,,12
-"Travis Shaw, 3B MIL (KC, 2)",3,15.9,CHC,,12
-"Gregory Polanco, OF PIT (OAK, 2)",3,15.9,CHC,,12
-"Gregory Polanco, OF PIT (OAK, 2)",3,10,WAS,,13
-"Kevin Gausman, SP ATL (OAK, 3)",3,10,WAS,,13
-"Tyler Skaggs, SP LAA (OAK, 4)",3,7.65,KC,,14
-"Kevin Gausman, SP ATL (OAK, 3)",3,7.65,KC,,14
-"Jimmy Nelson, SP Mil (CHC, 5)",3,7.65,KC,,14
-"Christian Yelich, OF Mil (LAD, 1)",4,28.2,KC,,14
-"Trevor Bauer, SP CLE (NYM, 1)",5,30,BAL,,15
-"Steven Matz, SP NYM (ARZ, 4)",4,12,BAL,,15
-"Travis Shaw, 3B MIL (KC, 2)",4,16,BAL,,15
-"Nick Castellanos, 3B DET (PIT, 1)",5,38.85,SD,,16
-"Trevor Bauer, SP CLE (NYM, 1)",5,63.85,SD,,16
-"Xander Bogaerts, SS BOS (LAD, 1)",4,35.08,SD,,16
-"Jacob DeGrom, SP NYM (BAL, 1)",4,47.08,SD,,16
-"Christian Yelich, OF Mil (LAD, 1)",3,35.31,SD,,16
-"Travis Shaw, 3B MIL (KC, 2)",3,14.31,SD,,16
-"Rougned Odor, 2B TEX (OAK, 2)",5,38.85,SD,,16
-"Gregory Polanco, OF PIT (OAK, 2)",3,11.31,SD,,16
-"Yasmani Grandal, C LAD (PHI, 3)",3,14.31,SD,,16
-"Kevin Gausman, SP ATL (OAK, 3)",3,11.31,SD,,16
-"Carlos Rodon, SP CWS (OAK, 4)",3,8.31,SD,,16
-"Tyler Skaggs, SP LAA (OAK, 4)",3,8.31,SD,,16
-"Steven Matz, SP NYM (ARZ, 4)",3,11.31,SD,,16
-"Vince Velasquez, SP PHI (ARZ, 4)",4,15.08,SD,,16
-"Jorge Soler, OF KC (WAS, 4)",3,8.31,SD,,16
-"Joe Panik, 2B SF (NYY, 4)",3,4.5,SD,,16
-"Aaron Sanchez, SP TOR (WAS, 5)",3,5.91,SD,,16
-"Christian Yelich, OF Mil (LAD, 1)",5,56.5,TOR,,17
-"Xander Bogaerts, SS BOS (LAD, 1)",5,39.5,TOR,,17
-"Rougned Odor, 2B TEX (OAK, 2)",5,29,TOR,,17
-"Tyler Skaggs, SP LAA (OAK, 4)",5,19,TOR,,17
-"Carlos Rodon, SP CWS (OAK, 4)",5,21,TOR,,17
-"Vince Velasquez, SP PHI (ARZ, 4)",5,14,TOR,,17
-"Jacob DeGrom, SP NYM (BAL, 1)",3,51,NYY,,18
-"Kevin Gausman, SP ATL (OAK, 3)",3,9,NYY,,8
-"Carlos Rodon, SP CWS (OAK, 4)",3,9,NYY,,8
-"Rougned Odor, 2B TEX (OAK, 2)",3,18,NYY,,8
-"Vince Velasquez, SP PHI (ARZ, 4)",3,9,NYY,,8
+"Drew Smyly, SP SEA",3,1.2,LAD,,1
+"Anthony Swarzak, RP SEA",1,1.1,CLE,,2
+"Asdrubal Cabrera, 2B TEX",1,2.1,CLE,,2
+"Blake Treinen, RP OAK",1,5,CLE,,2
+"Cody Allen, RP LAA",1,4.2,CLE,,2
+"Dee Gordon, 2B SEA",2,5.2,CLE,,2
+"Drew Smyly, SP SEA",2,2.2,CLE,,2
+"Edwin Encarnacion, 1B SEA",1,3.3,CLE,,2
+"Hunter Strickland, RP SEA",1,2.4,CLE,,2
+"Jose Leclerc, RP TEX",1,3.9,CLE,,2
+"Justin Upton, OF LAA",2,7.8,CLE,,2
+"Justin Verlander, SP HOU",1,12.2,CLE,,2
+"Khris Davis, DH OAK",2,13.2,CLE,,2
+"Shin Soo Choo, OF TEX",1,0.8,CLE,,2
+"Trevor Cahill, SP LAA",1,2.2,CLE,,2
+"Yuli Gurriel, 1B HOU",1,2.3,CLE,,2
+"Yusei Kikuchi, SP SEA",2,5.6,CLE,,2
+"Andrelton Simmons, SS LAA",1,3.59,BOS,,3
+"Blake Treinen, RP OAK",3,15.48,BOS,"6,5,4.48",3
+"Brad Peacock, RP HOU",3,4.08,BOS,"1.5,1.4,1.18",3
+"Cody Allen, RP LAA",1,3.19,BOS,,3
+"Dee Gordon, 2B SEA",2,12.74,BOS,"7,5.74",3
+"Drew Smyly, SP SEA",3,3.57,BOS,,3
+"Elvis Andrus, SS TEX",1,3.19,BOS,,3
+"Isiah Kiner-Falefa, 3B TEX",3,1.71,BOS,,3
+"Jesse Chavez, RP TEX",1,0.5,BOS,,3
+"Joakim Soria, RP OAK",2,1.34,BOS,,3
+"Justin Upton, OF LAA",3,24.81,BOS,"9.7,8.11,7",3
+"Justin Verlander, SP HOU",1,14.29,BOS,,3
+"Mike Fiers, SP OAK",1,3.28,BOS,,3
+"Mike Leake, SP SEA",2,3.38,BOS,,3
+"Omar Narvaez, C SEA",3,2.61,BOS,,3
+"Ryan Pressly, RP HOU",3,3.51,BOS,"1.3,1.21,1",3
+"Shin Soo Choo, OF TEX",1,0.87,BOS,,3
+"Yuli Gurriel, 1B HOU",1,4.37,BOS,,3
+"Yusei Kikuchi, SP SEA",3,15.51,BOS,"5.8,5.5,4.21",3
+"Blake Treinen, RP OAK",2,16,OAK,"6.4,9.6",4
+"Jose Leclerc, RP TEX",2,11.4,OAK,,4
+"Justin Upton, OF LAA",2,11.8,OAK,,4
+"Justin Verlander, SP HOU",1,13.35,OAK,,4
+"Khris Davis, DH OAK",2,18,OAK,"7.2,10.8",4
+"Yusei Kikuchi, SP SEA",3,16.5,OAK,,4
+"Andrelton Simmons, SS LAA",4,10.44,PIT,,5
+"Asdrubal Cabrera, 2B TEX",1,2.61,PIT,,5
+"Blake Treinen, RP OAK",3,17.34,PIT,,5
+"Cody Allen, RP LAA",1,4.61,PIT,,5
+"Dee Gordon, 2B SEA",2,12.52,PIT,,5
+"Domingo Santana, OF SEA",5,8.9,PIT,,5
+"Edwin Encarnacion, 1B SEA",1,4.78,PIT,,5
+"Frankie Montas, SP OAK",5,11.3,PIT,"2.71,2.71,2.26,1.81,1.81",5
+"Hunter Strickland, RP SEA",2,2.52,PIT,,5
+"Jose Leclerc, RP TEX",3,17.34,PIT,,5
+"Justin Upton, OF LAA",3,24.78,PIT,"9.91,8.26,6.61",5
+"Justin Verlander, SP HOU",1,15.78,PIT,,5
+"Khris Davis, DH OAK",2,14.52,PIT,,5
+"Matt Harvey, SP LAA",5,3.9,PIT,,5
+"Mike Fiers, SP OAK",1,1.78,PIT,,5
+"Nick Tropeano, SP LAA",3,3.78,PIT,,5
+"Wade LeBlanc, SP SEA",1,3.26,PIT,,5
+"Wade Miley, SP HOU",2,4.52,PIT,,5
+"Yuli Gurriel, 1B HOU",1,1.26,PIT,,5
+"Yusei Kikuchi, SP SEA",3,21.78,PIT,,5
+"Ryan Pressly, RP HOU",3,3.6,OAK,,6
+"Albert Pujols, 1B LAA",1,0.75,ARZ,,7
+"Anthony Swarzak, RP SEA",1,1,ARZ,,7
+"Blake Treinen, RP OAK",1,5.8,ARZ,,7
+"Cody Allen, RP LAA",1,5.6,ARZ,,7
+"Dee Gordon, 2B SEA",3,13.5,ARZ,,7
+"Domingo Santana, OF SEA",3,1.5,ARZ,,7
+"Drew Smyly, SP SEA",1,1.1,ARZ,,7
+"Edwin Encarnacion, 1B SEA",1,7.75,ARZ,,7
+"Fernando Rodney, RP OAK",1,1.25,ARZ,,7
+"Frankie Montas, SP OAK",1,0.55,ARZ,,7
+"Hector Rondon, RP HOU",3,2.4,ARZ,,7
+"Hunter Strickland, RP SEA",1,1.75,ARZ,,7
+"Jay Bruce, OF SEA",1,1.6,ARZ,,7
+"Jesse Chavez, RP TEX",1,0.55,ARZ,,7
+"Joakim Soria, RP OAK",1,0.65,ARZ,,7
+"Jose Leclerc, RP TEX",1,4.9,ARZ,,7
+"Justin Upton, OF LAA",1,8.3,ARZ,,7
+"Justin Verlander, SP HOU",1,8,ARZ,,7
+"Khris Davis, DH OAK",1,10.7,ARZ,,7
+"Matt Harvey, SP LAA",2,4,ARZ,,7
+"Mike Fiers, SP OAK",1,2.5,ARZ,,7
+"Mike Leake, SP SEA",1,2.5,ARZ,,7
+"Ryan Pressly, RP HOU",1,0.73,ARZ,,7
+"Shin Soo Choo, OF TEX",1,2,ARZ,,7
+"Trevor Cahill, SP LAA",1,1.27,ARZ,,7
+"Wade LeBlanc, SP SEA",1,0.67,ARZ,,7
+"Wade Miley, SP HOU",1,1.2,ARZ,,7
+"Will Harris, RP HOU",1,0.65,ARZ,,7
+"Yuli Gurriel, 1B HOU",1,2.26,ARZ,,7
+"Yusei Kikuchi, SP SEA",3,9.9,ARZ,,7
+"Jose Leclerc, RP TEX",2,10.32,BOS,"6,5.5,4.48",8
+"Blake Treinen, RP OAK",2,11,PHI,,9
+"Cody Allen, RP LAA",2,11,PHI,,9
+"Justin Verlander, SP HOU",2,13,PHI,,9
+"Andrelton Simmons, SS LAA",2,7.8,TOR,,10
+"Blake Treinen, RP OAK",1,5.1,TOR,,10
+"Cody Allen, RP LAA",1,3.2,TOR,,10
+"Dee Gordon, 2B SEA",1,0.7,TOR,,10
+"Elvis Andrus, SS TEX",1,2.6,TOR,,10
+"Hunter Strickland, RP SEA",2,6.4,TOR,,10
+"Jose Leclerc, RP TEX",3,11.4,TOR,,10
+"Josh Reddick, OF HOU",1,3.4,TOR,,10
+"Justin Verlander, SP HOU",1,7.5,TOR,,10
+"Khris Davis, DH OAK",2,13.8,TOR,,10
+"Mike Fiers, SP OAK",1,0.6,TOR,,10
+"Mike Leake, SP SEA",2,5.8,TOR,,10
+"Ryan Pressly, RP HOU",3,9.9,TOR,,10
+"Trevor Cahill, SP LAA",1,2.4,TOR,,10
+"Wade LeBlanc, SP SEA",1,0.5,TOR,,10
+"Wade Miley, SP HOU",2,6.4,TOR,,10
+"Yusei Kikuchi, SP SEA",3,15.6,TOR,,10
+"Zack Cozart, 3B LAA",1,0.6,TOR,,10
+"Andrelton Simmons, SS LAA",3,11.25,ATL,,11
+"Asdrubal Cabrera, 2B TEX",1,1.5,ATL,,11
+"Blake Treinen, RP OAK",1,7.5,ATL,,11
+"Cody Allen, RP LAA",1,4,ATL,,11
+"Dee Gordon, 2B SEA",1,2,ATL,,11
+"Domingo Santana, OF SEA",1,0.5,ATL,,11
+"Drew Smyly, SP SEA",1,1,ATL,,11
+"Edinson Volquez, SP TEX",1,0.8,ATL,,11
+"Edwin Encarnacion, 1B SEA",1,7.75,ATL,,11
+"Elvis Andrus, SS TEX",1,4.25,ATL,,11
+"Frankie Montas, SP OAK",1,0.4,ATL,,11
+"Hunter Strickland, RP SEA",1,0.8,ATL,,11
+"Jesse Chavez, RP TEX",1,0.4,ATL,,11
+"Jose Leclerc, RP TEX",3,21,ATL,,11
+"Justin Verlander, SP HOU",1,9,ATL,,11
+"Khris Davis, DH OAK",1,9,ATL,,11
+"Marcus Semien, SS OAK",3,11.25,ATL,,11
+"Matt Harvey, SP LAA",1,1,ATL,,11
+"Mike Fiers, SP OAK",1,0.75,ATL,,11
+"Ryan Pressly, RP HOU",4,7,ATL,,11
+"Wade LeBlanc, SP SEA",1,1,ATL,,11
+"Wade Miley, SP HOU",1,1,ATL,,11
+"Yusei Kikuchi, SP SEA",4,20,ATL,,11
+"Zack Cozart, 3B LAA",1,0.4,ATL,,11
+"Asdrubal Cabrera, 2B TEX",1,3,WAS,,12
+"Blake Treinen, RP OAK",2,10,WAS,,12
+"Cody Allen, RP LAA",1,3,WAS,,12
+"Dee Gordon, 2B SEA",1,4,WAS,,12
+"Edwin Encarnacion, 1B SEA",1,4,WAS,,12
+"Hunter Strickland, RP SEA",1,1,WAS,,12
+"Jay Bruce, OF SEA",1,1,WAS,,12
+"Justin Upton, OF LAA",1,5,WAS,,12
+"Justin Verlander, SP HOU",1,14,WAS,,12
+"Khris Davis, DH OAK",2,14,WAS,,12
+"Omar Narvaez, C SEA",1,2,WAS,,12
+"Yuli Gurriel, 1B HOU",1,2,WAS,,12
+"Yusei Kikuchi, SP SEA",3,15,WAS,,12
+"Albert Pujols, 1B LAA",1,0.65,CHC,,13
+"Anthony Swarzak, RP SEA",1,1.5,CHC,,13
+"Asdrubal Cabrera, 2B TEX",1,0.8,CHC,,13
+"Blake Treinen, RP OAK",1,10.99,CHC,,13
+"Cody Allen, RP LAA",1,4.59,CHC,,13
+"Cole Kalhoun, OF LAA",2,0.88,CHC,,13
+"Dan Altavilla, RP SEA",1,0.4,CHC,,13
+"Dee Gordon, 2B SEA",3,9.99,CHC,,13
+"Domingo Santana, OF SEA",3,6.6,CHC,,13
+"Edwin Encarnacion, 1B SEA",1,7.55,CHC,,13
+"Elvis Andrus, SS TEX",2,6,CHC,,13
+"Fernando Rodney, RP OAK",1,0.65,CHC,,13
+"Hector Rondon, RP HOU",1,0.51,CHC,,13
+"Hunter Strickland, RP SEA",2,5.22,CHC,,13
+"Jesse Chavez, RP TEX",1,0.41,CHC,,13
+"Jose Leclerc, RP TEX",2,15.8,CHC,,13
+"Justin Upton, OF LAA",1,7.65,CHC,,13
+"Khris Davis, DH OAK",1,9.99,CHC,,13
+"Marcus Semien, SS OAK",1,0.6,CHC,,13
+"Mark Canha, OF OAK",1,0.41,CHC,,13
+"Matt Harvey, SP LAA",1,0.51,CHC,,13
+"Mike Leake, SP SEA",1,0.41,CHC,,13
+"Omar Narvaez, C SEA",2,2.6,CHC,,13
+"Ryan Buchter, RP OAK",1,0.41,CHC,,13
+"Ryan Pressly, RP HOU",3,7.77,CHC,,13
+"Shawn Armstrong, RP SEA",2,1.8,CHC,,13
+"Shin Soo Choo, OF TEX",1,2.8,CHC,,13
+"Trevor Cahill, SP LAA",1,0.41,CHC,,13
+"Wade LeBlanc, SP SEA",1,0.41,CHC,,13
+"Wade Miley, SP HOU",1,0.67,CHC,,13
+"Will Harris, RP HOU",1,0.4,CHC,,13
+"Zack Cozart, 3B LAA",2,0.88,CHC,,13
+"Hunter Strickland, RP SEA",2,3.5,DET,,14
+"Jesse Chavez, RP TEX",2,3.1,DET,,14
+"Omar Narvaez, C SEA",3,1.5,DET,".4,.5,.6",14
+"Zack Cozart, 3B LAA",3,5.25,DET,"1.5,1.75,2",14
+"Asdrubal Cabrera, 2B TEX",1,1.1,NYM,,15
+"Blake Treinen, RP OAK",1,5.5,NYM,,15
+"Cody Allen, RP LAA",1,6.75,NYM,,15
+"Dee Gordon, 2B SEA",2,7,NYM,,15
+"Domingo Santana, OF SEA",4,15,NYM,,15
+"Edwin Encarnacion, 1B SEA",1,5.5,NYM,,15
+"Elvis Andrus, SS TEX",1,2.5,NYM,,15
+"Frankie Montas, SP OAK",4,2,NYM,,15
+"Hunter Strickland, RP SEA",1,2.5,NYM,,15
+"Jose Leclerc, RP TEX",1,3.7,NYM,,15
+"Justin Upton, OF LAA",1,5.5,NYM,,15
+"Justin Verlander, SP HOU",1,18.5,NYM,,15
+"Khris Davis, DH OAK",1,10.5,NYM,,15
+"Trevor Cahill, SP LAA",1,2.5,NYM,,15
+"Wade Miley, SP HOU",1,0.85,NYM,,15
+"Yuli Gurriel, 1B HOU",1,2.5,NYM,,15
+"Yusei Kikuchi, SP SEA",2,11,NYM,,15
+"Albert Pujols, 1B LAA",1,1.69,BOS,,16
+"Asdrubal Cabrera, 2B TEX",1,3.27,BOS,,16
+"Domingo Santana, OF SEA",3,11.1,BOS,"4.2,4,2.9",16
+"Edwin Encarnacion, 1B SEA",1,4.89,BOS,,16
+"Hunter Strickland, RP SEA",1,2.19,BOS,,16
+"Jay Bruce, OF SEA",2,2.38,BOS,,16
+"Khris Davis, DH OAK",2,17.88,BOS,"10,7.88",16
+"Blake Treinen, RP OAK",1,6.05,KC,,17
+"Cody Allen, RP LAA",1,5.55,KC,,17
+"Dee Gordon, 2B SEA",1,4.05,KC,,17
+"Edwin Encarnacion, 1B SEA",1,8.55,KC,,17
+"Hunter Strickland, RP SEA",1,0.55,KC,,17
+"Jay Bruce, OF SEA",1,2.05,KC,,17
+"Jose Leclerc, RP TEX",1,3.05,KC,,17
+"Khris Davis, DH OAK",1,16.55,KC,,17
+"Marcus Semien, SS OAK",1,1.55,KC,,17
+"Matt Harvey, SP LAA",3,1.65,KC,,17
+"Mike Fiers, SP OAK",1,2.55,KC,,17
+"Mike Leake, SP SEA",1,2.55,KC,,17
+"Trevor Cahill, SP LAA",1,0.55,KC,,17
+"Wade LeBlanc, SP SEA",1,1.55,KC,,17
+"Wade Miley, SP HOU",1,2.05,KC,,17
+"Asdrubal Cabrera, 2B TEX",1,2.2,LAD,,18
+"Dan Altavilla, RP SEA",5,2,LAD,,18
+"Dee Gordon, 2B SEA",1,0.6,LAD,,18
+"Domingo Santana, OF SEA",5,2.5,LAD,,18
+"Edwin Encarnacion, 1B SEA",1,0.8,LAD,,18
+"isiah Kiner Falefa, 3B TEX",5,2.5,LAD,,18
+"Justin Upton, OF LAA",2,6.6,LAD,,18
+"Justin Verlander, SP HOU",1,8.3,LAD,,18
+"Khris Davis, DH OAK",2,8.4,LAD,,18
+"Marwin Gonzalez, OF HOU",3,1.3,LAD,,18
+"Yuli Gurriel, 1B HOU",2,1.4,LAD,,18
+"Yusei Kikuchi, SP SEA",5,27,LAD,,18
+"isiah Kiner Falefa, 3B TEX",3,2.31,SD,,19
+"Edwin Encarnacion, 1B SEA",1,5.77,SD,,19
+"Yuli Gurriel, 1B HOU",1,4.77,SD,,19
+"Dee Gordon, 2B SEA",2,11.54,SD,,19
+"Asdrubal Cabrera, 2B TEX",2,9.54,SD,,19
+"Zack Cozart, 3B LAA",1,2.77,SD,,19
+"Patrick Wisdom, 3B TEX",2,1.14,SD,,19
+"Elvis Andrus, SS TEX",2,7.54,SD,,19
+"Andrelton Simmons, SS LAA",2,9.54,SD,,19
+"Marcus Semien, SS OAK",3,14.31,SD,,19
+"Khris Davis, DH OAK",2,27.54,SD,,19
+"Justin Upton, OF LAA",2,17.54,SD,,19
+"Domingo Santana, OF SEA",3,14.31,SD,,19
+"Justin Verlander, SP HOU",2,35.54,SD,,19
+"Blake Treinen, RP OAK",2,17.54,SD,,19
+"Jose Leclerc, RP TEX",4,31.08,SD,,19
+"Cody Allen, RP LAA",2,15.54,SD,,19
+"Matt Harvey, SP LAA",2,7.54,SD,,19
+"Mike Leake, SP SEA",2,7.54,SD,,19
+"Yusei Kikuchi, SP SEA",3,17.31,SD,,19
+"Hunter Strickland, RP SEA",2,11.54,SD,,19
+"Jesse Chavez, RP TEX",2,1.54,SD,,19
+"Hansel Robles, RP LAA",3,5.31,SD,,19
+"Lou Trivino, RP OAK",2,3.54,SD,,19
+"Ryan Pressly, RP HOU",2,3.54,SD,,19
+"Chris Devenski, RP HOU",2,3.54,SD,,19
+"Luis Garcia, RP LAA",2,1.54,SD,,19
+"Brad Peacock, RP HOU",2,3.54,SD,,19
+"Cory Gearrin, RP SEA",2,1.54,SD,,19
+"Khris Davis, DH OAK",2,13,NYY,,20
+"Justin Upton, OF LAA",2,13,NYY,,20
+"Domingo Santana, OF SEA",3,3.75,NYY,,20
