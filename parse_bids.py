@@ -99,6 +99,7 @@ df = max_by_column(df, 'Player', 'Years')
 df = max_by_column(df, 'Player', 'Y1')
 df = min_by_column(df, 'Player', 'Order')
 df.drop(['Y1', 'Y2', 'Y3', 'Y4', 'Y5', 'Max', 'Min'], axis=1, inplace=True)
+temp = df.Team.uniqu
 winning_bids = generate_winning_bids_json(df)
 write_json_file('all_bids.json', all_bids)
 write_json_file('all_players.json', all_players)
