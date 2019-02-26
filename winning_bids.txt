@@ -1,57 +1,68 @@
-[b][u]BOS[/u][/b]
-CC Sabathia, SP NYY, 1 year at 2.19/year
-Troy Tulowitzki, SS NYY, 1 year at 2.19/year
-Kendrys Morales, 1B TOR, 2 years at 0.57/year
-Tommy Pham, OF TB, 2 years at 8.01/year
+[b][u]ARZ[/u][/b]
+Buster Posey, C SF, 1 year at 6.3/year
+Justin Turner, 3B LAD, 1 year at 10.1/year
 
-[b][u]ATL[/u][/b]
-Matt Barnes, RP BOS, 1 year at 6.0/year
-Heath Hembree, RP BOS, 1 year at 0.65/year
-Tyler Thornburg, RP BOS, 1 year at 0.75/year
-
-[b][u]PHI[/u][/b]
-David Price, SP BOS, 2 years at 9.3/year
-Marcus Stroman, SP TOR, 1 year at 5.3/year
-
-[b][u]OAK[/u][/b]
-Craig Kimbrel, RP BOS, 3 years at 7.0/year
-
-[b][u]KC[/u][/b]
-Alex Cobb, SP BAL, 2 years at 2.55/year (2.05,3.05)
-Chris Davis, 1B BAL, 3 years at 1.55/year (1.25,1.55,1.85)
-Clayton Richard, SP TOR, 1 year at 1.55/year
-Mark Trumbo, DH BAL, 1 year at 2.05/year
-Matt Shoemaker, SP TOR, 1 year at 1.05/year
+[b][u]PIT[/u][/b]
+Chris Ianetta, C COL , 1 year at 0.41/year
+David Freese, 1B LAD, 1 year at 0.78/year
+Eric Hosmer, 1B SD, 2 years at 4.81/year (5.77,3.85)
+Max Muncy, 1B LAD, 3 years at 8.28/year
+Trey Wingenter, RP SD, 4 years at 0.78/year
 
 [b][u]CHC[/u][/b]
-Brock Holt, 2B BOS, 1 year at 0.4/year
-JD Martinez, OF BOS, 1 year at 22.51/year
+Russell Martin, C LAD, 1 year at 0.4/year
+Ty Blach, SP SF, 1 year at 0.4/year
+Chad Bettis, RP COL, 1 year at 0.4/year
+Chris Stratton, RP SF, 1 year at 0.4/year
+Luis Perdomo, RP SD, 1 year at 0.4/year
+
+[b][u]BOS[/u][/b]
+Eric Thames, 1B MIL, 3 years at 0.4/year
+Wilmer Flores, 2B ARZ, 2 years at 1.49/year
+Mac Williamson, OF SF, 3 years at 1.99/year (2.3,2,1.67)
+Johnny Cueto, SP SF, 2 years at 1.79/year
+Merrill Kelly, SP ARZ, 2 years at 1.89/year
 
 [b][u]TB[/u][/b]
-Adam Ottavino, RP NYY, 2 years at 3.0/year
-Joey Wendle, 2B TB, 3 years at 3.003/year (2.75,3.13,3.13)
-Zack Britton, RP NYY, 2 years at 3.0/year
+Ian Desmond, 1B COL, 1 year at 2.97/year
+Eduardo Escobar, 3B ARZ, 2 years at 5.34/year
+Andrew Suarez, SP SF, 4 years at 0.85/year
+Drew Pomeranz, SP SF, 2 years at 1.75/year
+Greg Holland, RP ARZ, 1 year at 2.97/year
+Wade Davis, RP COL, 1 year at 8.0/year
 
-[b][u]SD[/u][/b]
-Charlie Morton, SP TB, 1 year at 7.77/year
-Didi Gregorius, SS NYY, 4 years at 4.77/year
-Jordan Montgomery, SP NYY, 4 years at 3.07/year
-Justin Smoak, 1B TOR, 1 year at 3.77/year
-Ken Giles, RP TOR, 3 years at 5.77/year
-
-[b][u]CLE[/u][/b]
-Chaz Roe, RP TB, 1 year at 0.8/year
+[b][u]LAD[/u][/b]
+Enrique Hernandez, 2B LAD, 1 year at 0.6/year
+Chris Taylor, 3B LAD, 1 year at 4.3/year
 
 [b][u]TOR[/u][/b]
-Daniel Robertson, 2B TB, 5 years at 0.6/year
-
-[b][u]NYY[/u][/b]
-Ji-Man Choi, DH TB, 2 years at 0.75/year
-
-[b][u]BAL[/u][/b]
-Dustin Pedroia, 2B BOS, 1 year at 1.0/year
-Bobby Poyner, RP BOS, 2 years at 1.0/year
+Ian Kinsler, 2B SD, 1 year at 0.5/year
+Robbie Erlin, SP SD, 3 years at 2.6/year
+Tony Cingrani, RP LAD, 3 years at 0.9/year
+Tony Watson, RP SF, 2 years at 2.3/year
 
 [b][u]WAS[/u][/b]
-Ryan Tepera, RP TOR, 2 years at 1.0/year
+Nick Ahmed, SS ARZ, 1 year at 3.0/year
+
+[b][u]NYM[/u][/b]
+Derek Holland, SP SF, 2 years at 4.5/year (3.6,5.4)
+Jake McGee, RP COL, 1 year at 0.65/year
+Mark Melancon, RP SF, 1 year at 2.75/year
+
+[b][u]PHI[/u][/b]
+Jeff Samardzija, SP SF, 2 years at 5.2/year
+Kenta Maeda, SP LAD, 2 years at 5.5/year
+Rich Hill, SP LAD, 2 years at 5.5/year
+
+[b][u]BAL[/u][/b]
+Madison Bumgarner, SP SF, 1 year at 8.0/year
+Zack Greinke, SP ARZ, 1 year at 9.0/year
+Pedro Baez, RP LAD, 1 year at 1.0/year
+
+[b][u]CLE[/u][/b]
+Craig Stammen, RP SD, 1 year at 1.3/year
+Scott Alexander, RP LAD, 1 year at 0.4/year
+
+[b][u]OAK[/u][/b]
+Seung-Hwan Oh, RP COL, 1 year at 0.55/year
 
