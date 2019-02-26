@@ -50,9 +50,9 @@ TB: 2 years at 6.4/year
 TOR: 2 years at 5.8/year
 OAK: 2 years at 5.0/year
 WAS: 2 years at 5.0/year
+SD: 3 years at 4.77/year
 BOS: 2 years at 2.29/year
 CLE: 2 years at 1.8/year
-SD: 3 years at 1.59/year
 NYM: 1 year at 0.75/year
 
 [b][u]Enrique Hernandez, 2B LAD[/u][/b]
@@ -146,6 +146,7 @@ LAD: 4 years at 0.8/year
 
 [b][u]Kenta Maeda, SP LAD[/u][/b]
 PHI: 2 years at 5.5/year
+SD: 2 years at 4.97/year
 BOS: 3 years at 4.79/year (4.3,4.8,5.27)
 NYM: 2 years at 4.0/year (3.2,4.8)
 TB: 3 years at 3.95/year
@@ -153,7 +154,6 @@ OAK: 4 years at 3.7/year
 CLE: 2 years at 3.2/year
 ARZ: 3 years at 3.0/year
 LAD: 2 years at 2.7/year
-SD: 2 years at 2.485/year
 DET: 1 year at 0.75/year
 CHC: 1 year at 0.5/year
 ATL: 1 year at 0.4/year
@@ -168,9 +168,9 @@ BOS: 3 years at 4.89/year
 LAD: 1 year at 4.4/year
 OAK: 2 years at 4.0/year
 CLE: 2 years at 3.9/year
+SD: 2 years at 3.77/year
 ARZ: 2 years at 3.5/year
 ATL: 1 year at 3.0/year
-SD: 2 years at 1.885/year
 
 [b][u]Merrill Kelly, SP ARZ[/u][/b]
 BOS: 2 years at 1.89/year
@@ -210,12 +210,12 @@ BOS: 2 years at 7.01/year (5.82,8.2)
 WAS: 2 years at 7.0/year
 CLE: 2 years at 5.9/year
 TB: 1 year at 5.85/year
+SD: 2 years at 5.77/year
 OAK: 2 years at 5.4/year
 DET: 1 year at 5.0/year
 LAD: 1 year at 4.6/year
 ARZ: 1 year at 4.5/year
 ATL: 1 year at 3.0/year
-SD: 2 years at 2.885/year
 
 [b][u]Chad Bettis, RP COL[/u][/b]
 CHC: 1 year at 0.4/year
