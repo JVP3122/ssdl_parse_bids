@@ -1,68 +1,54 @@
-[b][u]ARZ[/u][/b]
-Buster Posey, C SF, 1 year at 6.3/year
-Justin Turner, 3B LAD, 1 year at 10.1/year
-
-[b][u]PIT[/u][/b]
-Chris Ianetta, C COL , 1 year at 0.41/year
-David Freese, 1B LAD, 1 year at 0.78/year
-Eric Hosmer, 1B SD, 2 years at 4.81/year (5.77,3.85)
-Max Muncy, 1B LAD, 3 years at 8.28/year
-Trey Wingenter, RP SD, 4 years at 0.78/year
-
-[b][u]CHC[/u][/b]
-Russell Martin, C LAD, 1 year at 0.4/year
-Ty Blach, SP SF, 1 year at 0.4/year
-Chad Bettis, RP COL, 1 year at 0.4/year
-Chris Stratton, RP SF, 1 year at 0.4/year
-Luis Perdomo, RP SD, 1 year at 0.4/year
-
-[b][u]BOS[/u][/b]
-Eric Thames, 1B MIL, 3 years at 0.4/year
-Wilmer Flores, 2B ARZ, 2 years at 1.49/year
-Mac Williamson, OF SF, 3 years at 1.99/year (2.3,2,1.67)
-Johnny Cueto, SP SF, 2 years at 1.79/year
-Merrill Kelly, SP ARZ, 2 years at 1.89/year
+[b][u]PHI[/u][/b]
+Francisco Cervelli, C PIT, 5 years at 0.75/year
+Brandon Kintzler, RP CHC, 1 year at 0.52/year
+Jared Hughes, RP CIN, 5 years at 0.75/year
+Jeremy Jeffress, RP MIL, 1 year at 3.2/year
+Steve Cishek, RP CHC, 1 year at 0.62/year
 
 [b][u]TB[/u][/b]
-Ian Desmond, 1B COL, 1 year at 2.97/year
-Eduardo Escobar, 3B ARZ, 2 years at 5.34/year
-Andrew Suarez, SP SF, 4 years at 0.85/year
-Drew Pomeranz, SP SF, 2 years at 1.75/year
-Greg Holland, RP ARZ, 1 year at 2.97/year
-Wade Davis, RP COL, 1 year at 8.0/year
+Yadier Molina, C STL, 2 years at 2.33/year
+Lorenzo Cain, OF MIL, 1 year at 7.7/year
 
-[b][u]LAD[/u][/b]
-Enrique Hernandez, 2B LAD, 1 year at 0.6/year
-Chris Taylor, 3B LAD, 1 year at 4.3/year
+[b][u]ATL[/u][/b]
+Eric Thames, 1B MIL, 1 year at 1.0/year
+Joey Votto, 1B CIN, 1 year at 7.0/year
+Jung Ho Kang, 3B PIT, 1 year at 0.5/year
+Matt Kemp, OF CIN, 1 year at 2.0/year
+Adam Wainwright, SP STL, 1 year at 0.8/year
 
-[b][u]TOR[/u][/b]
-Ian Kinsler, 2B SD, 1 year at 0.5/year
-Robbie Erlin, SP SD, 3 years at 2.6/year
-Tony Cingrani, RP LAD, 3 years at 0.9/year
-Tony Watson, RP SF, 2 years at 2.3/year
-
-[b][u]WAS[/u][/b]
-Nick Ahmed, SS ARZ, 1 year at 3.0/year
+[b][u]BOS[/u][/b]
+Hernan Perez, 2B MIL, 3 years at 0.59/year
+Scooter Gennett, 2B CIN, 2 years at 4.89/year (5,4.78)
+Alex Wood, SP CIN, 3 years at 4.09/year (3.9,4.2,4.17)
+Tanner Roark, SP CIN, 3 years at 2.39/year (2.2,2.5,2.47)
 
 [b][u]NYM[/u][/b]
-Derek Holland, SP SF, 2 years at 4.5/year (3.6,5.4)
-Jake McGee, RP COL, 1 year at 0.65/year
-Mark Melancon, RP SF, 1 year at 2.75/year
+Ben Zobrist, OF CHC, 1 year at 0.5/year
+Ryan Braun, OF MIL, 1 year at 4.5/year
+Starling Marte, OF PIT, 2 years at 9.05/year (7.6,10.5)
+Gio Gonzalez, SP MIL, 1 year at 0.85/year
+Andrew Miller, RP STL, 2 years at 4.0/year (3.5,4.5)
+Brandon Woodruff, RP MIL, 4 years at 1.0/year (.8,1,1,1.2)
+Pedro Strop, RP CHC, 1 year at 2.1/year
+Richard Rodriguez, RP PIT, 5 years at 0.75/year
 
-[b][u]PHI[/u][/b]
-Jeff Samardzija, SP SF, 2 years at 5.2/year
-Kenta Maeda, SP LAD, 2 years at 5.5/year
-Rich Hill, SP LAD, 2 years at 5.5/year
+[b][u]WAS[/u][/b]
+Carlos Martinez, SP STL, 3 years at 5.0/year
+Jon Lester, SP CHC, 1 year at 5.0/year
+Kyle Hendricks, SP CHC, 2 years at 5.0/year
+Yu Darvish, SP CHC, 3 years at 7.0/year
+Brandon Morrow, RP CHC, 1 year at 3.0/year
 
-[b][u]BAL[/u][/b]
-Madison Bumgarner, SP SF, 1 year at 8.0/year
-Zack Greinke, SP ARZ, 1 year at 9.0/year
-Pedro Baez, RP LAD, 1 year at 1.0/year
+[b][u]PIT[/u][/b]
+Chris Archer, SP PIT, 1 year at 5.78/year
 
-[b][u]CLE[/u][/b]
-Craig Stammen, RP SD, 1 year at 1.3/year
-Scott Alexander, RP LAD, 1 year at 0.4/year
+[b][u]KC[/u][/b]
+Jhoulys Chacin, SP MIL, 1 year at 3.05/year
 
-[b][u]OAK[/u][/b]
-Seung-Hwan Oh, RP COL, 1 year at 0.55/year
+[b][u]CHC[/u][/b]
+Brad Brach, RP CHC, 1 year at 0.41/year
+Michael Lorenzen, RP CIN, 3 years at 0.41/year
+
+[b][u]SD[/u][/b]
+Jordan Lyles, RP PIT, 2 years at 1.97/year
 

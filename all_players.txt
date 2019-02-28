@@ -1,292 +1,266 @@
-[b][u]Buster Posey, C SF[/u][/b]
-ARZ: 1 year at 6.3/year
-WAS: 3 years at 6.0/year
-CLE: 2 years at 3.3/year
-OAK: 3 years at 3.0/year
-BOS: 2 years at 2.89/year
-TOR: 1 year at 1.3/year
-ATL: 1 year at 1.2/year
-LAD: 2 years at 0.8/year
-PIT: 1 year at 0.78/year
+[b][u]Francisco Cervelli, C PIT[/u][/b]
+PHI: 5 years at 0.75/year
+NYY: 1 year at 0.75/year
+DET: 1 year at 0.6/year
 CHC: 1 year at 0.45/year
 
-[b][u]Chris Ianetta, C COL [/u][/b]
-PIT: 1 year at 0.41/year
-CHC: 1 year at 0.4/year
-
-[b][u]Russell Martin, C LAD[/u][/b]
-CHC: 1 year at 0.4/year
-
-[b][u]David Freese, 1B LAD[/u][/b]
-PIT: 1 year at 0.78/year
-
-[b][u]Eric Hosmer, 1B SD[/u][/b]
-PIT: 2 years at 4.81/year (5.77,3.85)
-WAS: 1 year at 4.0/year
-LAD: 1 year at 3.3/year
-BOS: 2 years at 3.19/year
-OAK: 3 years at 3.0/year
-CLE: 2 years at 2.7/year
-ARZ: 1 year at 2.5/year
-ATL: 1 year at 0.9/year
+[b][u]Yadier Molina, C STL[/u][/b]
+TB: 2 years at 2.33/year
+DET: 2 years at 1.0/year (.9,1.1)
+PIT: 1 year at 0.8/year
+NYY: 1 year at 0.75/year
+BOS: 1 year at 0.59/year
+CHC: 2 years at 0.45/year
 
 [b][u]Eric Thames, 1B MIL[/u][/b]
-BOS: 3 years at 0.4/year
+ATL: 1 year at 1.0/year
 
-[b][u]Ian Desmond, 1B COL[/u][/b]
-TB: 1 year at 2.97/year
-TOR: 1 year at 2.4/year
-PIT: 1 year at 2.28/year
-OAK: 1 year at 2.0/year
-CLE: 2 years at 1.9/year
-PHI: 1 year at 1.3/year
-ATL: 1 year at 0.5/year
-
-[b][u]Max Muncy, 1B LAD[/u][/b]
-PIT: 3 years at 8.28/year
-LAD: 1 year at 7.4/year
-ARZ: 1 year at 7.0/year
-TB: 2 years at 6.4/year
-TOR: 2 years at 5.8/year
-OAK: 2 years at 5.0/year
-WAS: 2 years at 5.0/year
-SD: 3 years at 4.77/year
-BOS: 2 years at 2.29/year
-CLE: 2 years at 1.8/year
-NYM: 1 year at 0.75/year
-
-[b][u]Enrique Hernandez, 2B LAD[/u][/b]
-LAD: 1 year at 0.6/year
-
-[b][u]Ian Kinsler, 2B SD[/u][/b]
-TOR: 1 year at 0.5/year
-
-[b][u]Wilmer Flores, 2B ARZ[/u][/b]
-BOS: 2 years at 1.49/year
-LAD: 3 years at 1.4/year
-NYM: 3 years at 0.51/year
-
-[b][u]Chris Taylor, 3B LAD[/u][/b]
-LAD: 1 year at 4.3/year
-ARZ: 2 years at 3.5/year
-TB: 2 years at 2.79/year
-TOR: 1 year at 1.3/year
-BOS: 2 years at 1.19/year
-CLE: 2 years at 0.75/year
-ATL: 1 year at 0.7/year
-
-[b][u]Eduardo Escobar, 3B ARZ[/u][/b]
-TB: 2 years at 5.34/year
-TOR: 1 year at 4.2/year
-LAD: 1 year at 3.8/year
-BAL: 1 year at 3.5/year
-BOS: 1 year at 2.19/year
-ARZ: 1 year at 2.0/year
-WAS: 1 year at 2.0/year
-SD: 1 year at 1.97/year
-CLE: 2 years at 0.6/year
-NYM: 3 years at 0.5/year
-
-[b][u]Justin Turner, 3B LAD[/u][/b]
-ARZ: 1 year at 10.1/year
-DET: 4 years at 9.0/year (7.5,9,10,9.5)
-BAL: 1 year at 9.0/year
-TB: 1 year at 7.41/year
-TOR: 1 year at 6.2/year
-WAS: 2 years at 5.0/year
-SD: 1 year at 4.77/year
-CLE: 2 years at 3.9/year
-NYM: 1 year at 3.5/year
-OAK: 1 year at 3.0/year
-BOS: 1 year at 2.19/year
-
-[b][u]Nick Ahmed, SS ARZ[/u][/b]
-WAS: 1 year at 3.0/year
-BOS: 1 year at 2.19/year
-
-[b][u]Mac Williamson, OF SF[/u][/b]
-BOS: 3 years at 1.99/year (2.3,2,1.67)
-
-[b][u]Andrew Suarez, SP SF[/u][/b]
-TB: 4 years at 0.85/year
-TOR: 4 years at 0.7/year
-BOS: 2 years at 0.4/year
-CHC: 1 year at 0.4/year
-
-[b][u]Derek Holland, SP SF[/u][/b]
-NYM: 2 years at 4.5/year (3.6,5.4)
-KC: 1 year at 2.55/year
-TB: 1 year at 2.35/year
-TOR: 1 year at 0.9/year
-ATL: 1 year at 0.8/year
-CHC: 1 year at 0.4/year
-
-[b][u]Drew Pomeranz, SP SF[/u][/b]
-TB: 2 years at 1.75/year
-BOS: 2 years at 1.29/year
-LAD: 2 years at 0.8/year
-DET: 1 year at 0.75/year
-CHC: 1 year at 0.4/year
-ATL: 1 year at 0.4/year
-
-[b][u]Jeff Samardzija, SP SF[/u][/b]
-PHI: 2 years at 5.2/year
-DET: 2 years at 3.0/year
-NYM: 1 year at 2.5/year
-SD: 1 year at 1.77/year
-CLE: 3 years at 0.9/year
-TOR: 1 year at 0.6/year
-ATL: 1 year at 0.5/year
-
-[b][u]Johnny Cueto, SP SF[/u][/b]
-BOS: 2 years at 1.79/year
-CHC: 1 year at 1.2/year
-TB: 3 years at 1.0/year
-LAD: 4 years at 0.8/year
-
-[b][u]Kenta Maeda, SP LAD[/u][/b]
-PHI: 2 years at 5.5/year
-SD: 2 years at 4.97/year
-BOS: 3 years at 4.79/year (4.3,4.8,5.27)
-NYM: 2 years at 4.0/year (3.2,4.8)
-TB: 3 years at 3.95/year
-OAK: 4 years at 3.7/year
+[b][u]Joey Votto, 1B CIN[/u][/b]
+ATL: 1 year at 7.0/year
+WAS: 2 years at 6.0/year
+TB: 1 year at 5.7/year
+OAK: 1 year at 5.5/year
+CHC: 2 years at 4.75/year
+LAD: 1 year at 4.6/year
+NYM: 1 year at 4.5/year
+BOS: 2 years at 4.01/year
+ARZ: 3 years at 4.0/year
+SD: 1 year at 3.97/year
+KC: 4 years at 3.55/year
 CLE: 2 years at 3.2/year
-ARZ: 3 years at 3.0/year
-LAD: 2 years at 2.7/year
-DET: 1 year at 0.75/year
-CHC: 1 year at 0.5/year
-ATL: 1 year at 0.4/year
+BAL: 3 years at 2.0/year
 
-[b][u]Madison Bumgarner, SP SF[/u][/b]
-BAL: 1 year at 8.0/year
-TB: 2 years at 7.5/year
-PHI: 2 years at 5.5/year
-DET: 1 year at 5.0/year
-TOR: 3 years at 4.9/year
-BOS: 3 years at 4.89/year
-LAD: 1 year at 4.4/year
-OAK: 2 years at 4.0/year
-CLE: 2 years at 3.9/year
-SD: 2 years at 3.77/year
-ARZ: 2 years at 3.5/year
-ATL: 1 year at 3.0/year
+[b][u]Hernan Perez, 2B MIL[/u][/b]
+BOS: 3 years at 0.59/year
+DET: 1 year at 0.4/year
 
-[b][u]Merrill Kelly, SP ARZ[/u][/b]
-BOS: 2 years at 1.89/year
-TB: 4 years at 1.85/year
-NYM: 1 year at 1.75/year
-ATL: 1 year at 1.1/year
-CHC: 4 years at 0.42/year
+[b][u]Scooter Gennett, 2B CIN[/u][/b]
+BOS: 2 years at 4.89/year (5,4.78)
+ARZ: 3 years at 4.0/year
+WAS: 2 years at 4.0/year
+SD: 2 years at 3.97/year
+OAK: 3 years at 3.75/year
+PHI: 3 years at 3.5/year
+LAD: 2 years at 3.5/year
+NYM: 1 year at 3.5/year
+CLE: 2 years at 2.2/year
+BAL: 3 years at 1.667/year
 
-[b][u]Rich Hill, SP LAD[/u][/b]
-PHI: 2 years at 5.5/year
-TB: 1 year at 5.13/year
-TOR: 1 year at 4.4/year
-OAK: 1 year at 4.2/year
-CLE: 1 year at 4.2/year
-BOS: 1 year at 3.7/year
-ARZ: 1 year at 3.5/year
-ATL: 1 year at 2.7/year
-NYM: 1 year at 2.5/year
-LAD: 1 year at 1.2/year
-CHC: 1 year at 0.9/year
+[b][u]Jung Ho Kang, 3B PIT[/u][/b]
+ATL: 1 year at 0.5/year
+
+[b][u]Ben Zobrist, OF CHC[/u][/b]
+NYM: 1 year at 0.5/year
+
+[b][u]Lorenzo Cain, OF MIL[/u][/b]
+TB: 1 year at 7.7/year
+WAS: 2 years at 6.0/year
+NYM: 1 year at 4.5/year
+ARZ: 3 years at 4.0/year
+ATL: 1 year at 4.0/year
+SD: 1 year at 3.97/year
+CLE: 2 years at 3.9/year (3.5,4.3)
+CHC: 2 years at 3.85/year
+PIT: 1 year at 3.8/year
+BOS: 2 years at 2.89/year
+PHI: 1 year at 1.5/year
+
+[b][u]Matt Kemp, OF CIN[/u][/b]
+ATL: 1 year at 2.0/year
+
+[b][u]Ryan Braun, OF MIL[/u][/b]
+NYM: 1 year at 4.5/year
+WAS: 1 year at 4.5/year
+SD: 1 year at 2.97/year
+ATL: 1 year at 2.0/year
+NYY: 1 year at 1.8/year
+BOS: 2 years at 1.49/year
+CHC: 2 years at 0.42/year
+
+[b][u]Starling Marte, OF PIT[/u][/b]
+NYM: 2 years at 9.05/year (7.6,10.5)
+WAS: 3 years at 8.333/year (9,8,8)
+TB: 1 year at 7.7/year
+BOS: 2 years at 7.01/year (6.5,7.52)
+CHC: 3 years at 5.85/year
+OAK: 4 years at 5.5/year
+LAD: 2 years at 4.5/year
+CLE: 3 years at 4.4/year (4,4.4,4.8)
+ARZ: 4 years at 4.0/year
+ATL: 1 year at 4.0/year
+SD: 2 years at 3.97/year
+PIT: 1 year at 3.8/year
+PHI: 1 year at 2.3/year
+BAL: 3 years at 2.0/year
+
+[b][u]Adam Wainwright, SP STL[/u][/b]
+ATL: 1 year at 0.8/year
+NYM: 1 year at 0.5/year
 DET: 1 year at 0.5/year
 
-[b][u]Robbie Erlin, SP SD[/u][/b]
-TOR: 3 years at 2.6/year
-LAD: 3 years at 0.7/year
-NYM: 1 year at 0.4/year
-ATL: 1 year at 0.4/year
+[b][u]Alex Wood, SP CIN[/u][/b]
+BOS: 3 years at 4.09/year (3.9,4.2,4.17)
+OAK: 3 years at 3.0/year
+SD: 2 years at 2.97/year
+NYM: 2 years at 2.75/year
+TB: 1 year at 2.13/year
+CLE: 3 years at 1.8/year
+PIT: 1 year at 1.78/year
+LAD: 3 years at 1.3/year
+ATL: 1 year at 1.0/year
+CHC: 1 year at 0.41/year
 
-[b][u]Ty Blach, SP SF[/u][/b]
-CHC: 1 year at 0.4/year
+[b][u]Carlos Martinez, SP STL[/u][/b]
+WAS: 3 years at 5.0/year
+BOS: 4 years at 4.59/year (4,4.75,4.8,4.81)
+SD: 2 years at 3.97/year
+OAK: 5 years at 3.5/year
+ARZ: 3 years at 3.0/year
+CHC: 2 years at 1.95/year
+NYM: 5 years at 1.5/year
+PIT: 2 years at 1.28/year
+PHI: 5 years at 1.2/year
 
-[b][u]Zack Greinke, SP ARZ[/u][/b]
-BAL: 1 year at 9.0/year
-TOR: 1 year at 8.9/year
-PHI: 1 year at 7.2/year
-BOS: 2 years at 7.01/year (5.82,8.2)
-WAS: 2 years at 7.0/year
-CLE: 2 years at 5.9/year
-TB: 1 year at 5.85/year
-SD: 2 years at 5.77/year
-OAK: 2 years at 5.4/year
-DET: 1 year at 5.0/year
-LAD: 1 year at 4.6/year
-ARZ: 1 year at 4.5/year
-ATL: 1 year at 3.0/year
+[b][u]Chris Archer, SP PIT[/u][/b]
+PIT: 1 year at 5.78/year
+TB: 2 years at 5.3/year
+WAS: 1 year at 5.0/year
+BOS: 4 years at 4.59/year (4,4.75,4.8,4.81)
+ARZ: 2 years at 4.5/year
+NYM: 1 year at 4.2/year
+SD: 2 years at 3.97/year
+ATL: 3 years at 2.75/year
+OAK: 4 years at 0.5/year
 
-[b][u]Chad Bettis, RP COL[/u][/b]
-CHC: 1 year at 0.4/year
-
-[b][u]Chris Stratton, RP SF[/u][/b]
-CHC: 1 year at 0.4/year
-
-[b][u]Craig Stammen, RP SD[/u][/b]
-CLE: 1 year at 1.3/year
-WAS: 1 year at 1.0/year
-TOR: 1 year at 0.9/year
-OAK: 1 year at 0.8/year
-BOS: 2 years at 0.79/year
-PHI: 1 year at 0.65/year
-NYM: 1 year at 0.4/year
-
-[b][u]Greg Holland, RP ARZ[/u][/b]
-TB: 1 year at 2.97/year
-TOR: 2 years at 0.9/year
+[b][u]Gio Gonzalez, SP MIL[/u][/b]
 NYM: 1 year at 0.85/year
-PHI: 1 year at 0.65/year
-ATL: 1 year at 0.45/year
-BOS: 2 years at 0.4/year
-CLE: 1 year at 0.4/year
 
-[b][u]Jake McGee, RP COL[/u][/b]
-NYM: 1 year at 0.65/year
+[b][u]Jhoulys Chacin, SP MIL[/u][/b]
+KC: 1 year at 3.05/year
+SD: 1 year at 2.97/year
+ATL: 1 year at 2.55/year
+BOS: 3 years at 2.19/year
+ARZ: 2 years at 2.1/year
 
-[b][u]Luis Perdomo, RP SD[/u][/b]
-CHC: 1 year at 0.4/year
+[b][u]Jon Lester, SP CHC[/u][/b]
+WAS: 1 year at 5.0/year
+NYM: 1 year at 4.5/year
+LAD: 1 year at 3.6/year
+SD: 1 year at 2.97/year
+PIT: 1 year at 2.78/year
+ATL: 1 year at 2.5/year
+OAK: 1 year at 2.3/year
+TB: 1 year at 2.13/year
+ARZ: 2 years at 2.0/year
+CLE: 2 years at 1.9/year
+BOS: 2 years at 1.19/year
+CHC: 1 year at 0.41/year
 
-[b][u]Mark Melancon, RP SF[/u][/b]
-NYM: 1 year at 2.75/year
-BOS: 1 year at 0.4/year
+[b][u]Kyle Hendricks, SP CHC[/u][/b]
+WAS: 2 years at 5.0/year
+SD: 2 years at 4.97/year
+PIT: 1 year at 4.78/year
+BOS: 4 years at 4.59/year (4,4.75,4.81,4.8)
+OAK: 3 years at 4.0/year
+NYM: 3 years at 3.5/year
+LAD: 2 years at 3.2/year
+ARZ: 2 years at 3.0/year
+CLE: 2 years at 2.8/year
+ATL: 3 years at 2.75/year
+TB: 1 year at 2.13/year
 
-[b][u]Pedro Baez, RP LAD[/u][/b]
-BAL: 1 year at 1.0/year
-CLE: 1 year at 0.4/year
+[b][u]Tanner Roark, SP CIN[/u][/b]
+BOS: 3 years at 2.39/year (2.2,2.5,2.47)
+ARZ: 1 year at 1.6/year
+KC: 1 year at 1.55/year
+ATL: 1 year at 1.5/year
+NYM: 1 year at 0.5/year
+CHC: 1 year at 0.41/year
 
-[b][u]Scott Alexander, RP LAD[/u][/b]
-CLE: 1 year at 0.4/year
-
-[b][u]Seung-Hwan Oh, RP COL[/u][/b]
-OAK: 1 year at 0.55/year
-BOS: 1 year at 0.41/year
-CLE: 1 year at 0.4/year
-
-[b][u]Tony Cingrani, RP LAD[/u][/b]
-TOR: 3 years at 0.9/year
-
-[b][u]Tony Watson, RP SF[/u][/b]
-TOR: 2 years at 2.3/year
-WAS: 2 years at 1.0/year
-BAL: 1 year at 1.0/year
-OAK: 1 year at 0.9/year
-CLE: 1 year at 0.8/year
-PHI: 1 year at 0.65/year
-BOS: 1 year at 0.41/year
-
-[b][u]Trey Wingenter, RP SD[/u][/b]
-PIT: 4 years at 0.78/year
-
-[b][u]Wade Davis, RP COL[/u][/b]
-TB: 1 year at 8.0/year
-PHI: 1 year at 7.2/year
-ARZ: 1 year at 5.6/year
-TOR: 1 year at 4.8/year
-BOS: 1 year at 4.19/year
-KC: 1 year at 4.05/year
+[b][u]Yu Darvish, SP CHC[/u][/b]
+WAS: 3 years at 7.0/year
+NYM: 3 years at 7.0/year (6,7,8)
+LAD: 1 year at 4.6/year
+BOS: 3 years at 4.39/year (4,4.4,4.77)
+CLE: 3 years at 3.2/year
+ARZ: 3 years at 3.0/year
 OAK: 2 years at 3.0/year
-ATL: 1 year at 3.0/year
+SD: 1 year at 2.97/year
+PIT: 1 year at 2.78/year
+TB: 1 year at 2.13/year
+ATL: 3 years at 1.8/year
+DET: 1 year at 0.5/year
+CHC: 1 year at 0.41/year
+
+[b][u]Andrew Miller, RP STL[/u][/b]
+NYM: 2 years at 4.0/year (3.5,4.5)
+BOS: 3 years at 3.29/year (3.5,3.37,3)
+OAK: 2 years at 2.85/year
+LAD: 3 years at 2.2/year
+WAS: 2 years at 2.0/year
+ARZ: 2 years at 2.0/year
+CHC: 2 years at 1.75/year
+CLE: 2 years at 1.2/year (1,1.4)
+SD: 1 year at 0.77/year
+
+[b][u]Brad Brach, RP CHC[/u][/b]
+CHC: 1 year at 0.41/year
+
+[b][u]Brandon Kintzler, RP CHC[/u][/b]
+PHI: 1 year at 0.52/year
+
+[b][u]Brandon Morrow, RP CHC[/u][/b]
+WAS: 1 year at 3.0/year
 SD: 1 year at 2.77/year
-CLE: 1 year at 2.1/year
+NYM: 1 year at 2.5/year
+BOS: 2 years at 2.19/year
+ARZ: 1 year at 2.0/year
+CHC: 1 year at 0.45/year
+
+[b][u]Brandon Woodruff, RP MIL[/u][/b]
+NYM: 4 years at 1.0/year (.8,1,1,1.2)
+BOS: 5 years at 0.89/year
+OAK: 5 years at 0.8/year
+LAD: 5 years at 0.6/year
+CHC: 1 year at 0.51/year
+
+[b][u]Jared Hughes, RP CIN[/u][/b]
+PHI: 5 years at 0.75/year
+
+[b][u]Jeremy Jeffress, RP MIL[/u][/b]
+PHI: 1 year at 3.2/year
+CHC: 2 years at 1.95/year
+NYM: 1 year at 1.75/year
+OAK: 3 years at 1.2/year
+WAS: 2 years at 1.0/year
+ARZ: 1 year at 1.0/year
+SD: 1 year at 0.77/year
+KC: 1 year at 0.55/year
+BOS: 3 years at 0.5/year
+
+[b][u]Jordan Lyles, RP PIT[/u][/b]
+SD: 2 years at 1.97/year
+NYM: 1 year at 0.5/year
+NYY: 2 years at 0.49/year
+
+[b][u]Michael Lorenzen, RP CIN[/u][/b]
+CHC: 3 years at 0.41/year
+
+[b][u]Pedro Strop, RP CHC[/u][/b]
+NYM: 1 year at 2.1/year
+BOS: 3 years at 1.69/year
+ARZ: 1 year at 1.3/year
+WAS: 1 year at 1.0/year
+CHC: 1 year at 0.95/year
+DET: 1 year at 0.6/year
+SD: 1 year at 0.55/year
+KC: 1 year at 0.55/year
+
+[b][u]Richard Rodriguez, RP PIT[/u][/b]
+NYM: 5 years at 0.75/year
+LAD: 3 years at 0.4/year
+
+[b][u]Steve Cishek, RP CHC[/u][/b]
+PHI: 1 year at 0.62/year
+CHC: 1 year at 0.51/year
 
