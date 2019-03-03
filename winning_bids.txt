@@ -1,54 +1,56 @@
-[b][u]PHI[/u][/b]
-Francisco Cervelli, C PIT, 5 years at 0.75/year
-Brandon Kintzler, RP CHC, 1 year at 0.52/year
-Jared Hughes, RP CIN, 5 years at 0.75/year
-Jeremy Jeffress, RP MIL, 1 year at 3.2/year
-Steve Cishek, RP CHC, 1 year at 0.62/year
-
-[b][u]TB[/u][/b]
-Yadier Molina, C STL, 2 years at 2.33/year
-Lorenzo Cain, OF MIL, 1 year at 7.7/year
-
-[b][u]ATL[/u][/b]
-Eric Thames, 1B MIL, 1 year at 1.0/year
-Joey Votto, 1B CIN, 1 year at 7.0/year
-Jung Ho Kang, 3B PIT, 1 year at 0.5/year
-Matt Kemp, OF CIN, 1 year at 2.0/year
-Adam Wainwright, SP STL, 1 year at 0.8/year
-
 [b][u]BOS[/u][/b]
-Hernan Perez, 2B MIL, 3 years at 0.59/year
-Scooter Gennett, 2B CIN, 2 years at 4.89/year (5,4.78)
-Alex Wood, SP CIN, 3 years at 4.09/year (3.9,4.2,4.17)
-Tanner Roark, SP CIN, 3 years at 2.39/year (2.2,2.5,2.47)
+Austin Barnes, C LAD, 3 years at 0.49/year
+
+[b][u]TOR[/u][/b]
+Chance Sisco, C BAL, 5 years at 0.65/year
+Adam Frazier, 2B PIT, 5 years at 0.5/year
 
 [b][u]NYM[/u][/b]
-Ben Zobrist, OF CHC, 1 year at 0.5/year
-Ryan Braun, OF MIL, 1 year at 4.5/year
-Starling Marte, OF PIT, 2 years at 9.05/year (7.6,10.5)
-Gio Gonzalez, SP MIL, 1 year at 0.85/year
-Andrew Miller, RP STL, 2 years at 4.0/year (3.5,4.5)
-Brandon Woodruff, RP MIL, 4 years at 1.0/year (.8,1,1,1.2)
-Pedro Strop, RP CHC, 1 year at 2.1/year
-Richard Rodriguez, RP PIT, 5 years at 0.75/year
+Jonathan Lucroy, C LAA, 1 year at 0.65/year
+Jed Lowrie, 2B NYM, 1 year at 0.55/year
 
-[b][u]WAS[/u][/b]
-Carlos Martinez, SP STL, 3 years at 5.0/year
-Jon Lester, SP CHC, 1 year at 5.0/year
-Kyle Hendricks, SP CHC, 2 years at 5.0/year
-Yu Darvish, SP CHC, 3 years at 7.0/year
-Brandon Morrow, RP CHC, 1 year at 3.0/year
-
-[b][u]PIT[/u][/b]
-Chris Archer, SP PIT, 1 year at 5.78/year
-
-[b][u]KC[/u][/b]
-Jhoulys Chacin, SP MIL, 1 year at 3.05/year
+[b][u]NYY[/u][/b]
+Yan Gomes, C WAS, 1 year at 0.62/year
 
 [b][u]CHC[/u][/b]
-Brad Brach, RP CHC, 1 year at 0.41/year
-Michael Lorenzen, RP CIN, 3 years at 0.41/year
+Brett Gardner, OF NYY, 1 year at 0.41/year
+Carl Edwards, RP CHC, 3 years at 0.75/year
+
+[b][u]ARZ[/u][/b]
+Corey Dickerson, OF PIT, 2 years at 1.0/year
+
+[b][u]PIT[/u][/b]
+Ender Inciarte, OF ATL, 4 years at 4.77/year (3.82,4.77,4.77,5.72)
 
 [b][u]SD[/u][/b]
-Jordan Lyles, RP PIT, 2 years at 1.97/year
+Mac Williamson, OF SF, 3 years at 1.77/year
+
+[b][u]OAK[/u][/b]
+Matt Kemp, OF CIN, 1 year at 0.87/year
+
+[b][u]PHI[/u][/b]
+Michael Taylor, OF WAS, 5 years at 0.65/year
+Cody Allen, RP LAA, 2 years at 6.7/year
+
+[b][u]KC[/u][/b]
+Andrew Cashner, SP BAL, 1 year at 0.55/year
+Lance Lynn, SP MIN, 1 year at 1.05/year
+Alex Colome, RP CWS, 1 year at 1.05/year
+
+[b][u]ATL[/u][/b]
+Brett Anderson, SP OAK, 1 year at 0.5/year
+Felix Hernandez, SP SEA, 1 year at 0.8/year
+
+[b][u]LAD[/u][/b]
+Jake Faria, SP TB, 5 years at 0.72/year
+Matt Shoemaker, SP TOR, 1 year at 0.42/year
+Wily Peralta, SP KC, 5 years at 0.53/year
+Michael Lorenzen, RP CIN, 3 years at 0.4/year
+Tyler Mahle, RP CIN, 5 years at 0.4/year
+
+[b][u]WAS[/u][/b]
+Stephen Strasburg, SP WAS, 4 years at 8.0/year
+
+[b][u]CLE[/u][/b]
+Trevor Cahill, SP LAA, 2 years at 0.55/year
 
