@@ -1,123 +1,61 @@
-[b][u]Austin Barnes, C LAD[/u][/b]
-BOS: 3 years at 0.49/year
-CHC: 1 year at 0.41/year
-
-[b][u]Chance Sisco, C BAL[/u][/b]
-TOR: 5 years at 0.65/year
-NYY: 1 year at 0.46/year
-
-[b][u]Jonathan Lucroy, C LAA[/u][/b]
-NYM: 1 year at 0.65/year
-NYY: 1 year at 0.42/year
-CHC: 1 year at 0.41/year
-
-[b][u]Yan Gomes, C WAS[/u][/b]
-NYY: 1 year at 0.62/year
-BOS: 1 year at 0.5/year
-
-[b][u]Adam Frazier, 2B PIT[/u][/b]
-TOR: 5 years at 0.5/year
-
-[b][u]Jed Lowrie, 2B NYM[/u][/b]
-NYM: 1 year at 0.55/year
-CHC: 2 years at 0.41/year
-
-[b][u]Brett Gardner, OF NYY[/u][/b]
-CHC: 1 year at 0.41/year
-
-[b][u]Corey Dickerson, OF PIT[/u][/b]
-ARZ: 2 years at 1.0/year
-LAD: 5 years at 0.82/year
-CHC: 4 years at 0.76/year
-OAK: 1 year at 0.75/year
-CLE: 3 years at 0.6/year
-
-[b][u]Ender Inciarte, OF ATL[/u][/b]
-PIT: 4 years at 4.77/year (3.82,4.77,4.77,5.72)
-NYM: 3 years at 3.0/year (2.4,3,3.6)
-NYY: 1 year at 2.65/year
-BOS: 3 years at 1.79/year
-CLE: 3 years at 0.7/year
-OAK: 2 years at 0.7/year
-CHC: 4 years at 0.56/year
-ARZ: 2 years at 0.45/year
-
-[b][u]Mac Williamson, OF SF[/u][/b]
-SD: 3 years at 1.77/year
-
-[b][u]Matt Kemp, OF CIN[/u][/b]
-OAK: 1 year at 0.87/year
-
-[b][u]Michael Taylor, OF WAS[/u][/b]
-PHI: 5 years at 0.65/year
-
-[b][u]Andrew Cashner, SP BAL[/u][/b]
-KC: 1 year at 0.55/year
-
-[b][u]Brett Anderson, SP OAK[/u][/b]
-ATL: 1 year at 0.5/year
-
-[b][u]Felix Hernandez, SP SEA[/u][/b]
-ATL: 1 year at 0.8/year
-KC: 1 year at 0.55/year
-CHC: 1 year at 0.4/year
-
-[b][u]Jake Faria, SP TB[/u][/b]
-LAD: 5 years at 0.72/year
-
-[b][u]Lance Lynn, SP MIN[/u][/b]
-KC: 1 year at 1.05/year
-CLE: 2 years at 0.55/year
-LAD: 1 year at 0.42/year
-
-[b][u]Matt Shoemaker, SP TOR[/u][/b]
-LAD: 1 year at 0.42/year
-
-[b][u]Stephen Strasburg, SP WAS[/u][/b]
-WAS: 4 years at 8.0/year
-CLE: 3 years at 7.25/year (5.85,7.25,8.65)
-PIT: 3 years at 6.8/year
-OAK: 5 years at 6.25/year
-KC: 3 years at 6.05/year (5.05,6.05,7.05)
-LAD: 3 years at 5.8/year
-SD: 3 years at 5.77/year
-ARZ: 3 years at 5.5/year
-TOR: 2 years at 5.1/year
-CHC: 3 years at 4.95/year
-PHI: 3 years at 4.3/year
-ATL: 1 year at 1.0/year
-
-[b][u]Trevor Cahill, SP LAA[/u][/b]
-CLE: 2 years at 0.55/year
-
-[b][u]Wily Peralta, SP KC[/u][/b]
-LAD: 5 years at 0.53/year
+[b][u]Cody Allen, RP LAA[/u][/b]
+BOS: 2 years at 1.17/year
 
 [b][u]Alex Colome, RP CWS[/u][/b]
-KC: 1 year at 1.05/year
-ARZ: 2 years at 1.0/year
-LAD: 3 years at 0.82/year
-NYY: 1 year at 0.75/year
-CHC: 1 year at 0.4/year
+BOS: 3 years at 0.5633/year
 
-[b][u]Carl Edwards, RP CHC[/u][/b]
-CHC: 3 years at 0.75/year
-NYM: 4 years at 0.5/year
-CLE: 2 years at 0.4/year
+[b][u]David Hernandez, RP Cin[/u][/b]
+PIT: 1 year at 0.41/year
+BOS: 3 years at 0.4/year
 
-[b][u]Cody Allen, RP LAA[/u][/b]
-PHI: 2 years at 6.7/year
-TOR: 1 year at 4.1/year
-ARZ: 2 years at 4.0/year
-KC: 1 year at 4.0/year
-NYM: 2 years at 3.0/year (2.4,3.6)
-CLE: 2 years at 1.9/year (1.6,2.2)
-BOS: 4 years at 1.79/year
-CHC: 1 year at 0.41/year
+[b][u]Shawn Armstrong, RP SEA[/u][/b]
+PIT: 1 year at 0.41/year
 
-[b][u]Michael Lorenzen, RP CIN[/u][/b]
-LAD: 3 years at 0.4/year
+[b][u]Robert Stock, RP SD[/u][/b]
+PIT: 1 year at 0.41/year
 
-[b][u]Tyler Mahle, RP CIN[/u][/b]
-LAD: 5 years at 0.4/year
+[b][u]Jake Arrieta, SP PHI[/u][/b]
+NYM: 1 year at 4.2/year
+BOS: 2 years at 3.57/year (4,3.14)
+CLE: 3 years at 3.1/year (2.5,3.1,3.7)
+OAK: 2 years at 3.0/year (2.4,3.6)
+LAD: 2 years at 2.3/year
+NYY: 2 years at 1.9/year
+ARZ: 2 years at 1.55/year
+ATL: 1 year at 0.5/year
+
+[b][u]Taylor Ward, 3B LAA[/u][/b]
+PIT: 5 years at 0.4/year
+
+[b][u]Joe Ross, SP WAS[/u][/b]
+OAK: 5 years at 1.1/year
+NYM: 5 years at 0.41/year
+CLE: 4 years at 0.4/year
+
+[b][u]Kevin Kiermaier[/u][/b]
+NYY: 2 years at 0.85/year
+BOS: 3 years at 0.47/year
+
+[b][u]Wade LeBlanc, SP SEA[/u][/b]
+NYY: 1 year at 0.55/year
+ATL: 1 year at 0.4/year
+
+[b][u]Hanley Ramirez, 1B CLE[/u][/b]
+LAD: 1 year at 0.43/year
+
+[b][u]Jason Kipnis, 2B CLE[/u][/b]
+BOS: 3 years at 0.47/year
+
+[b][u]Shawn Kelley, RP TEX[/u][/b]
+BOS: 1 year at 0.4/year
+
+[b][u]Frankie Montas, SP OAK[/u][/b]
+NYM: 3 years at 1.7/year (2,1.7,1.4)
+OAK: 5 years at 0.78/year
+
+[b][u]Jay Bruce, OF SEA[/u][/b]
+OAK: 1 year at 0.55/year
+
+[b][u]Carston Charles Sabathia, SP NYY[/u][/b]
+NYM: 2 years at 0.5/year (.4,.6)
 

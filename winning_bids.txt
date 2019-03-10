@@ -1,56 +1,28 @@
 [b][u]BOS[/u][/b]
-Austin Barnes, C LAD, 3 years at 0.49/year
-
-[b][u]TOR[/u][/b]
-Chance Sisco, C BAL, 5 years at 0.65/year
-Adam Frazier, 2B PIT, 5 years at 0.5/year
-
-[b][u]NYM[/u][/b]
-Jonathan Lucroy, C LAA, 1 year at 0.65/year
-Jed Lowrie, 2B NYM, 1 year at 0.55/year
-
-[b][u]NYY[/u][/b]
-Yan Gomes, C WAS, 1 year at 0.62/year
-
-[b][u]CHC[/u][/b]
-Brett Gardner, OF NYY, 1 year at 0.41/year
-Carl Edwards, RP CHC, 3 years at 0.75/year
-
-[b][u]ARZ[/u][/b]
-Corey Dickerson, OF PIT, 2 years at 1.0/year
+Cody Allen, RP LAA, 2 years at 1.17/year
+Alex Colome, RP CWS, 3 years at 0.5633/year
+Jason Kipnis, 2B CLE, 3 years at 0.47/year
+Shawn Kelley, RP TEX, 1 year at 0.4/year
 
 [b][u]PIT[/u][/b]
-Ender Inciarte, OF ATL, 4 years at 4.77/year (3.82,4.77,4.77,5.72)
+David Hernandez, RP Cin, 1 year at 0.41/year
+Shawn Armstrong, RP SEA, 1 year at 0.41/year
+Robert Stock, RP SD, 1 year at 0.41/year
+Taylor Ward, 3B LAA, 5 years at 0.4/year
 
-[b][u]SD[/u][/b]
-Mac Williamson, OF SF, 3 years at 1.77/year
-
-[b][u]OAK[/u][/b]
-Matt Kemp, OF CIN, 1 year at 0.87/year
-
-[b][u]PHI[/u][/b]
-Michael Taylor, OF WAS, 5 years at 0.65/year
-Cody Allen, RP LAA, 2 years at 6.7/year
-
-[b][u]KC[/u][/b]
-Andrew Cashner, SP BAL, 1 year at 0.55/year
-Lance Lynn, SP MIN, 1 year at 1.05/year
-Alex Colome, RP CWS, 1 year at 1.05/year
-
-[b][u]ATL[/u][/b]
-Brett Anderson, SP OAK, 1 year at 0.5/year
-Felix Hernandez, SP SEA, 1 year at 0.8/year
+[b][u]NYY[/u][/b]
+Kevin Kiermaier, 2 years at 0.85/year
+Wade LeBlanc, SP SEA, 1 year at 0.55/year
 
 [b][u]LAD[/u][/b]
-Jake Faria, SP TB, 5 years at 0.72/year
-Matt Shoemaker, SP TOR, 1 year at 0.42/year
-Wily Peralta, SP KC, 5 years at 0.53/year
-Michael Lorenzen, RP CIN, 3 years at 0.4/year
-Tyler Mahle, RP CIN, 5 years at 0.4/year
+Hanley Ramirez, 1B CLE, 1 year at 0.43/year
 
-[b][u]WAS[/u][/b]
-Stephen Strasburg, SP WAS, 4 years at 8.0/year
+[b][u]NYM[/u][/b]
+Frankie Montas, SP OAK, 3 years at 1.7/year (2,1.7,1.4)
+Jake Arrieta, SP PHI, 1 year at 4.2/year
+Carston Charles Sabathia, SP NYY, 2 years at 0.5/year (.4,.6)
 
-[b][u]CLE[/u][/b]
-Trevor Cahill, SP LAA, 2 years at 0.55/year
+[b][u]OAK[/u][/b]
+Joe Ross, SP WAS, 5 years at 1.1/year
+Jay Bruce, OF SEA, 1 year at 0.55/year
 
