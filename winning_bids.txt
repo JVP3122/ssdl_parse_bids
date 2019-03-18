@@ -1,28 +1,27 @@
-[b][u]BOS[/u][/b]
-Cody Allen, RP LAA, 2 years at 1.17/year
-Alex Colome, RP CWS, 3 years at 0.5633/year
-Jason Kipnis, 2B CLE, 3 years at 0.47/year
-Shawn Kelley, RP TEX, 1 year at 0.4/year
+[b][u]DET[/u][/b]
+Yuli Gurriel, 1B HOU, 2 years at 3.4/year
+Evan Longoria, 3B SF, 1 year at 0.85/year
+Ben Zobrist, OF CHC, 2 years at 1.1/year
+Troy Tulowitzki, SS NYY, 1 year at 1.5/year
 
-[b][u]PIT[/u][/b]
-David Hernandez, RP Cin, 1 year at 0.41/year
-Shawn Armstrong, RP SEA, 1 year at 0.41/year
-Robert Stock, RP SD, 1 year at 0.41/year
-Taylor Ward, 3B LAA, 5 years at 0.4/year
+[b][u]CLE[/u][/b]
+Anthony Swarzak, RP SEA, 2 years at 0.4/year
 
-[b][u]NYY[/u][/b]
-Kevin Kiermaier, 2 years at 0.85/year
-Wade LeBlanc, SP SEA, 1 year at 0.55/year
-
-[b][u]LAD[/u][/b]
-Hanley Ramirez, 1B CLE, 1 year at 0.43/year
-
-[b][u]NYM[/u][/b]
-Frankie Montas, SP OAK, 3 years at 1.7/year (2,1.7,1.4)
-Jake Arrieta, SP PHI, 1 year at 4.2/year
-Carston Charles Sabathia, SP NYY, 2 years at 0.5/year (.4,.6)
+[b][u]ARZ[/u][/b]
+CC Sabathia, SP NYY, 1 year at 1.0/year
 
 [b][u]OAK[/u][/b]
-Joe Ross, SP WAS, 5 years at 1.1/year
-Jay Bruce, OF SEA, 1 year at 0.55/year
+Nick Kingham, SP PIT, 5 years at 0.51/year
+Jed Lowrie, 2B NYM, 1 year at 0.65/year
+
+[b][u]TOR[/u][/b]
+Leury Garcia, OF CWS, 4 years at 0.55/year
+
+[b][u]CHC[/u][/b]
+Clay Buchholz, SP TOR, 1 year at 0.41/year
+Brian McCann, C ATL, 1 year at 0.41/year
+
+[b][u]WAS[/u][/b]
+Nate Jones, RP CWS, 1 year at 0.4/year
+Justin Wilson, RP NYM, 1 year at 0.4/year
 

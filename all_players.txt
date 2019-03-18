@@ -1,61 +1,54 @@
-[b][u]Cody Allen, RP LAA[/u][/b]
-BOS: 2 years at 1.17/year
+[b][u]Yuli Gurriel, 1B HOU[/u][/b]
+DET: 2 years at 3.4/year
+NYM: 1 year at 2.44/year
+ARZ: 1 year at 1.0/year
+OAK: 2 years at 0.8/year
+LAD: 2 years at 0.77/year
+PHI: 5 years at 0.75/year
+CLE: 2 years at 0.7/year
+PIT: 2 years at 0.61/year (.49,.73)
+WAS: 1 year at 0.5/year
+ATL: 1 year at 0.44/year
+CHC: 2 years at 0.41/year
 
-[b][u]Alex Colome, RP CWS[/u][/b]
-BOS: 3 years at 0.5633/year
+[b][u]Evan Longoria, 3B SF[/u][/b]
+DET: 1 year at 0.85/year
+ARZ: 2 years at 0.5/year
+WAS: 1 year at 0.4/year
 
-[b][u]David Hernandez, RP Cin[/u][/b]
-PIT: 1 year at 0.41/year
-BOS: 3 years at 0.4/year
+[b][u]CC Sabathia, SP NYY[/u][/b]
+ARZ: 1 year at 1.0/year
+DET: 1 year at 0.45/year
+CHC: 1 year at 0.41/year
 
-[b][u]Shawn Armstrong, RP SEA[/u][/b]
-PIT: 1 year at 0.41/year
+[b][u]Ben Zobrist, OF CHC[/u][/b]
+DET: 2 years at 1.1/year
 
-[b][u]Robert Stock, RP SD[/u][/b]
-PIT: 1 year at 0.41/year
+[b][u]Troy Tulowitzki, SS NYY[/u][/b]
+DET: 1 year at 1.5/year
 
-[b][u]Jake Arrieta, SP PHI[/u][/b]
-NYM: 1 year at 4.2/year
-BOS: 2 years at 3.57/year (4,3.14)
-CLE: 3 years at 3.1/year (2.5,3.1,3.7)
-OAK: 2 years at 3.0/year (2.4,3.6)
-LAD: 2 years at 2.3/year
-NYY: 2 years at 1.9/year
-ARZ: 2 years at 1.55/year
-ATL: 1 year at 0.5/year
+[b][u]Anthony Swarzak, RP SEA[/u][/b]
+CLE: 2 years at 0.4/year
+BOS: 2 years at 0.4/year
 
-[b][u]Taylor Ward, 3B LAA[/u][/b]
-PIT: 5 years at 0.4/year
+[b][u]Nick Kingham, SP PIT[/u][/b]
+OAK: 5 years at 0.51/year
 
-[b][u]Joe Ross, SP WAS[/u][/b]
-OAK: 5 years at 1.1/year
-NYM: 5 years at 0.41/year
-CLE: 4 years at 0.4/year
+[b][u]Jed Lowrie, 2B NYM[/u][/b]
+OAK: 1 year at 0.65/year
 
-[b][u]Kevin Kiermaier[/u][/b]
-NYY: 2 years at 0.85/year
-BOS: 3 years at 0.47/year
+[b][u]Leury Garcia, OF CWS[/u][/b]
+TOR: 4 years at 0.55/year
 
-[b][u]Wade LeBlanc, SP SEA[/u][/b]
-NYY: 1 year at 0.55/year
-ATL: 1 year at 0.4/year
+[b][u]Clay Buchholz, SP TOR[/u][/b]
+CHC: 1 year at 0.41/year
 
-[b][u]Hanley Ramirez, 1B CLE[/u][/b]
-LAD: 1 year at 0.43/year
+[b][u]Brian McCann, C ATL[/u][/b]
+CHC: 1 year at 0.41/year
 
-[b][u]Jason Kipnis, 2B CLE[/u][/b]
-BOS: 3 years at 0.47/year
+[b][u]Nate Jones, RP CWS[/u][/b]
+WAS: 1 year at 0.4/year
 
-[b][u]Shawn Kelley, RP TEX[/u][/b]
-BOS: 1 year at 0.4/year
-
-[b][u]Frankie Montas, SP OAK[/u][/b]
-NYM: 3 years at 1.7/year (2,1.7,1.4)
-OAK: 5 years at 0.78/year
-
-[b][u]Jay Bruce, OF SEA[/u][/b]
-OAK: 1 year at 0.55/year
-
-[b][u]Carston Charles Sabathia, SP NYY[/u][/b]
-NYM: 2 years at 0.5/year (.4,.6)
+[b][u]Justin Wilson, RP NYM[/u][/b]
+WAS: 1 year at 0.4/year
 
