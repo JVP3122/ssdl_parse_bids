@@ -1,54 +1,37 @@
-[b][u]Yuli Gurriel, 1B HOU[/u][/b]
-DET: 2 years at 3.4/year
-NYM: 1 year at 2.44/year
-ARZ: 1 year at 1.0/year
-OAK: 2 years at 0.8/year
-LAD: 2 years at 0.77/year
-PHI: 5 years at 0.75/year
-CLE: 2 years at 0.7/year
-PIT: 2 years at 0.61/year (.49,.73)
-WAS: 1 year at 0.5/year
-ATL: 1 year at 0.44/year
-CHC: 2 years at 0.41/year
+[b][u]Gio Gonzalez, SP NYY[/u][/b]
+DET: 2 years at 1.5/year
+ARZ: 1 year at 0.4/year
 
-[b][u]Evan Longoria, 3B SF[/u][/b]
-DET: 1 year at 0.85/year
-ARZ: 2 years at 0.5/year
-WAS: 1 year at 0.4/year
-
-[b][u]CC Sabathia, SP NYY[/u][/b]
-ARZ: 1 year at 1.0/year
-DET: 1 year at 0.45/year
-CHC: 1 year at 0.41/year
-
-[b][u]Ben Zobrist, OF CHC[/u][/b]
-DET: 2 years at 1.1/year
-
-[b][u]Troy Tulowitzki, SS NYY[/u][/b]
-DET: 1 year at 1.5/year
-
-[b][u]Anthony Swarzak, RP SEA[/u][/b]
-CLE: 2 years at 0.4/year
+[b][u]Matt Kemp, OF CIN[/u][/b]
 BOS: 2 years at 0.4/year
 
-[b][u]Nick Kingham, SP PIT[/u][/b]
-OAK: 5 years at 0.51/year
+[b][u]Eric Thames, 1B MIL[/u][/b]
+BOS: 2 years at 0.4/year
 
-[b][u]Jed Lowrie, 2B NYM[/u][/b]
-OAK: 1 year at 0.65/year
+[b][u]Tyler Austin, 1B MIN[/u][/b]
+PIT: 5 years at 0.41/year
 
-[b][u]Leury Garcia, OF CWS[/u][/b]
-TOR: 4 years at 0.55/year
+[b][u]Enrique Hernandez, 2B LAD[/u][/b]
+LAD: 2 years at 0.52/year
 
-[b][u]Clay Buchholz, SP TOR[/u][/b]
-CHC: 1 year at 0.41/year
+[b][u]John Gant, SP STL[/u][/b]
+PHI: 5 years at 0.41/year
 
-[b][u]Brian McCann, C ATL[/u][/b]
-CHC: 1 year at 0.41/year
+[b][u]Mark Melancon, RP SF[/u][/b]
+BOS: 2 years at 0.4/year
 
-[b][u]Nate Jones, RP CWS[/u][/b]
-WAS: 1 year at 0.4/year
+[b][u]Edubray Ramos, RP PHI[/u][/b]
+PIT: 4 years at 0.4/year
 
-[b][u]Justin Wilson, RP NYM[/u][/b]
-WAS: 1 year at 0.4/year
+[b][u]Luis Cessa, RP NYY[/u][/b]
+PIT: 4 years at 0.4/year
+
+[b][u]Matt Shoemaker, SP TOR[/u][/b]
+ARZ: 1 year at 0.5/year
+
+[b][u]Junior Guerra, RP MIL[/u][/b]
+PIT: 3 years at 0.4/year
+
+[b][u]Robbie Erlin, RP SD[/u][/b]
+PIT: 3 years at 0.4/year
 
