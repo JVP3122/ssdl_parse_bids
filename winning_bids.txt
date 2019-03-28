@@ -1,24 +1,27 @@
 [b][u]DET[/u][/b]
-Gio Gonzalez, SP NYY, 2 years at 1.5/year
-
-[b][u]BOS[/u][/b]
-Matt Kemp, OF CIN, 2 years at 0.4/year
-Eric Thames, 1B MIL, 2 years at 0.4/year
-Mark Melancon, RP SF, 2 years at 0.4/year
-
-[b][u]PIT[/u][/b]
-Tyler Austin, 1B MIN, 5 years at 0.41/year
-Edubray Ramos, RP PHI, 4 years at 0.4/year
-Luis Cessa, RP NYY, 4 years at 0.4/year
-Junior Guerra, RP MIL, 3 years at 0.4/year
-Robbie Erlin, RP SD, 3 years at 0.4/year
+Kyle Seager, 3B SEA, 1 year at 0.75/year
 
 [b][u]LAD[/u][/b]
-Enrique Hernandez, 2B LAD, 2 years at 0.52/year
+Ervin Santana, SP CWS, 1 year at 0.42/year
 
-[b][u]PHI[/u][/b]
-John Gant, SP STL, 5 years at 0.41/year
+[b][u]KC[/u][/b]
+Erik Gonzalez, SS PIT, 1 year at 0.41/year
 
-[b][u]ARZ[/u][/b]
-Matt Shoemaker, SP TOR, 1 year at 0.5/year
+[b][u]BOS[/u][/b]
+Chase Anderson, P MIL, 1 year at 0.41/year
+Robbie Erlin, SP SD, 1 year at 0.41/year
+
+[b][u]CHC[/u][/b]
+Ian Kennedy, SP KC, 1 year at 0.41/year
+Felix Pena, SP LAA, 1 year at 0.41/year
+Dylan Covey, SP CWS, 1 year at 0.41/year
+
+[b][u]OAK[/u][/b]
+Matt Kemp, OF Cin, 1 year at 0.43/year
+Alex Claudio, RP MIL, 1 year at 0.43/year
+Adam Warren, RP SD, 1 year at 0.43/year
+Mitch Moreland, 1B BOS, 1 year at 0.43/year
+
+[b][u]TOR[/u][/b]
+Tucker Barnhart, C CIN, 1 year at 0.4/year
 
